@@ -4,5 +4,4 @@
 *.pyc
 __pycache__/
 
-build/
-index.html
+build/index.html
