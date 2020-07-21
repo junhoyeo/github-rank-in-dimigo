@@ -27,5 +27,5 @@ ranked = sorted(
 
 output = template.render(ranked_users=ranked)
 
-with open('./index.html', 'w') as file_pointer:
+with open('./build/index.html', 'w') as file_pointer:
   file_pointer.write(output)
