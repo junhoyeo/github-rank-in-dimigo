@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Github Rank in Dimigo</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.0/milligram.css">
+</head>
+<body>
+  <div class="container">
+    <h2 style="margin-top: 50px">
+      Github Rank in Dimigo
+    </h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Name</th>
+          <th>Stars</th>
+          <th>Profile</th>
+          <th>Bio</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for user in ranked_users %}
+        <tr>
+          <td>
+            {{ loop.index }}
+          </td>
+          <td>
+            <a
+              href="https://github.com/{{ user.id }}"
+              target="_blank"
+            >
+              <strong>
+                {{ user.name }}
+              </strong>
+            </a>
+          </td>
+          <td>
+            <strong>
+              {{ user.stars }}
+            </strong>
+          </td>
+          <td>
+            <img
+              src="{{ user.avatar_url }}&s=256"
+              style="border-radius: 50%; min-width: 84px; height: 84px; border: 1px solid rgba(128, 128, 128, 0.3);"
+            >
+          </td>
+          <td>
+            <div class="row">
+              {{ user.bio }}
+            </div>
+            <div
+              class="row"
+              style="color: rgb(180, 180, 180);"
+            >
+              <small>{{ user.public_repos }} public repos, {{ user.followers }} followers. Updated at {{ user.updated_at }}</small>
+            </div>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>
