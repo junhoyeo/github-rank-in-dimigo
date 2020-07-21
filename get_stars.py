@@ -5,7 +5,7 @@ def _count_stars_from_url(url: str) -> int:
   response = requests.get(url)
   soup = BeautifulSoup(response.text, 'html.parser')
   star_counts = [
-    int(anchor.text.strip())
+    int(anchor.text.replace(',', '').strip())
     for anchor in soup.select('a.muted-link.mr-3')
     if 'stargazers' in anchor.attrs['href']
   ]
