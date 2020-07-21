@@ -1,6 +1,7 @@
 import database
 from get_user_info import get_user_info
 from get_stars import get_stars
+from _update_bio_linebreaks_with_spaces import check_bio_linebreaks
 
 import time
 
@@ -21,6 +22,7 @@ for user_id in user_list:
     continue
   user['stars'] = get_stars(user_id)
   user['updated_at'] = int(time.time())
+  check_bio_linebreaks(user)
   print(user)
 
   print('insert', database.insert_user(user))
