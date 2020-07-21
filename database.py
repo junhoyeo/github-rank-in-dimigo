@@ -14,3 +14,11 @@ def insert_user(user) -> bool:
     return False
   db.insert(user)
   return True
+
+def update_user(user) -> bool:
+  user_id = user['id']
+  if not query_user_by_id(user_id):
+    return False
+  User = Query()
+  db.update(user, User.id == user_id)
+  return True
