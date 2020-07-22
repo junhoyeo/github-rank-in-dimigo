@@ -15,4 +15,9 @@ describe('Get user profile', () => {
     expect(information).toHaveProperty('followers');
     expect(information).toHaveProperty('publicRepos');
   }, 30 * SECONDS);
+
+  test('Get complicated bio without line breaks', async () => {
+    const information: IUserProfile = await getProfile('cokia');
+    expect(information.bio).toEqual('Student in Korea Digital Media High school Web-programming Department. interested in Hardware, Digital Forensic, Blockchain, Server programming😀');
+  }, 30 * SECONDS);
 });
