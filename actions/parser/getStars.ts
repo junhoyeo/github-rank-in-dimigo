@@ -36,4 +36,4 @@ async function _countStarsFromURL(url: string): Promise<number> {
 
 export default async function getStars(userID: string): Promise<number> {
   return await _countStarsFromURL(`https://github.com/${userID}?tab=repositories`);
-};
+}

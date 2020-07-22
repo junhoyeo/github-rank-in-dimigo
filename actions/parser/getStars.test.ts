@@ -7,4 +7,4 @@ describe('Get stars', () => {
     const stars: number = await getStars('junhoyeo');
     expect(stars).toBeGreaterThan(300);
   }, 30 * SECONDS);
-})
+});
