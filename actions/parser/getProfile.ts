@@ -20,7 +20,7 @@ export default async function getProfile(userID: string): Promise<IUserProfile> 
   const name = findTextFromSelector('span.vcard-fullname');
 
   const parsedBio = findTextFromSelector('div.user-profile-bio > div');
-  const bio = removeLinebreaksFromBio(parsedBio);
+  const bio = removeLinebreaksFromBio(parsedBio) || null;
 
   const followers = Number(findTextFromSelector('svg.octicon-people + span'));
   const publicRepos = Number(findTextFromSelector('svg.octicon-repo + span'));
