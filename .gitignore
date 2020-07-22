@@ -1,7 +1,4 @@
-*.txt
-database.json
-
-*.pyc
-__pycache__/
-
-build/index.html
+node_modules/
+index.html
+*.log
+.DS_Store
