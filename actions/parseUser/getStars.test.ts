@@ -1,5 +1,5 @@
 import getStars from './getStars';
-import { SECONDS } from '../../constants';
+import { SECONDS } from '../../utils/constants';
 
 describe('Get stars', () => {
   test('Get stars from userID', async () => {

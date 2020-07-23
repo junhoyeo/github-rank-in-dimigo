@@ -2,13 +2,7 @@ import axios from 'axios';
 import cheerio from 'cheerio';
 
 import { IUserProfile } from '../../models/User';
-
-const removeLinebreaksFromBio = (bioText: string): string => {
-  return bioText
-    .split('\n')
-    .filter(isNotEmpty => isNotEmpty)
-    .join(' ');
-};
+import removeLinebreaksFromText from '../../utils/removeLinebreaksFromText';
 
 export default async function getProfile(userID: string): Promise<IUserProfile> {
   const { data: html } = await axios.get(`https://github.com/${userID}`);
@@ -20,7 +14,7 @@ export default async function getProfile(userID: string): Promise<IUserProfile> 
   const name = findTextFromSelector('span.vcard-fullname');
 
   const parsedBio = findTextFromSelector('div.user-profile-bio > div');
-  const bio = removeLinebreaksFromBio(parsedBio) || null;
+  const bio = removeLinebreaksFromText(parsedBio) || null;
 
   const followers = Number(findTextFromSelector('svg.octicon-people + span'));
   const publicRepos = Number(findTextFromSelector('svg.octicon-repo + span'));

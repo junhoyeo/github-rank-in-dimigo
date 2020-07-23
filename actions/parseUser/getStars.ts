@@ -1,9 +1,7 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
 
-function getSumOfArray(arrayOfNumbers: number[]): number {
-  return arrayOfNumbers.reduce((a, b) => a + b, 0);
-}
+import getSumOfNumberArray from '../../utils/getSumOfNumberArray';
 
 async function _countStarsFromURL(url: string): Promise<number> {
   const { data: html } = await axios.get(url);
@@ -21,7 +19,7 @@ async function _countStarsFromURL(url: string): Promise<number> {
       return [];
     });
   console.log(starCounts);
-  const currentCounts = getSumOfArray(starCounts);
+  const currentCounts = getSumOfNumberArray(starCounts);
 
   const nextButton = document('a.btn.btn-outline.BtnGroup-item:last-child').first();
   if (nextButton?.text().includes('Next')) {

@@ -1,6 +1,6 @@
 import getProfile from './getProfile';
 import { IUserProfile } from '../../models/User';
-import { SECONDS } from '../../constants';
+import { SECONDS } from '../../utils/constants';
 
 describe('Get user profile', () => {
   test('Get user information from GitHub profile', async () => {

@@ -2,8 +2,7 @@ import getStars from './getStars';
 import getProfile from './getProfile';
 
 import { IUser } from '../../models/User';
-
-const getCurrentTimestamp = () => ~~(Date.now() / 1000);
+import getCurrentTimestamp from '../../utils/getCurrentTimestamp';
 
 export default async function parser(userID: string) {
   const userInformation: Partial<IUser> = await getProfile(userID);
