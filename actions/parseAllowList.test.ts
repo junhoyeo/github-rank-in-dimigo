@@ -1,4 +1,4 @@
-import parseAllowlist from './parseAllowlist';
+import parseAllowlist from './parseAllowList';
 import { SECONDS } from '../utils/constants';
 
 describe('Parse ALLOWLIST from file', () => {

@@ -2,3 +2,4 @@ node_modules/
 index.html
 *.log
 .DS_Store
+dist/
