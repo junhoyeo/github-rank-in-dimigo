@@ -21,7 +21,8 @@ async function updateDatabaseFromAllowList(): Promise<void> {
       try {
         const user = await parseUser(userID);
         updateUser(user);
-        isErrorResolved = true
+        console.log(`✅ Updated user "${user.name}"`);
+        isErrorResolved = true;
       } catch (error) {
         console.error(error, error.stack);
         errorCount ++;
@@ -31,9 +32,12 @@ async function updateDatabaseFromAllowList(): Promise<void> {
 }
 
 async function main(): Promise<void> {
-  // await updateDatabaseFromAllowList();
+  await updateDatabaseFromAllowList();
+
   const users = getAllUsers();
   const rankedUsers = await getRankedUsers(users);
+  console.log('🏆 Ranked users!');
+
   const renderedHTML = await renderHTMLFromRanked(rankedUsers);
   await writeFileAsync('./public/build/index.html', renderedHTML);
   await deployToGitHubPages();

@@ -34,7 +34,6 @@ export default async function getRankedUsers(users: IUser[]): Promise<IRankedUse
     user.updatedAt = moment
       .unix(currentUserLastUpdated as number)
       .format('YYYY-MM-DD hh:mm:ss');
-    console.log(user);
     return [user];
   }) as IRankedUser[];
 }
