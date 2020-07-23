@@ -21,7 +21,7 @@ export default async function getRankedUsers(users: IUser[]): Promise<IRankedUse
       stars: currentUserStars,
       updatedAt: currentUserLastUpdated,
     } = user;
-    if (currentUserStars < 0) {
+    if (currentUserStars < 1) {
       return [];
     }
 
