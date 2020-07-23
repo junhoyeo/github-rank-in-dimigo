@@ -5,7 +5,7 @@
   "repository": "https://github.com/junhoyeo/github-rank-in-dimigo.git",
   "author": "JunhoYeo <hanaro0704@gmail.com>",
   "scripts": {
-    "build": "tsc",
+    "build": "rm -rf dist && tsc && cp ./ALLOWLIST ./dist",
     "start": "node dist/index.js",
     "test": "jest"
   },

@@ -1,3 +1,914 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "junhoyeo",
+      "name": "Junho Yeo",
+      "bio": "Creating INEVITABLE™ Frontend",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/32605822?s=88&u=96ba32582d1568c561c6685bebaabe0164df19d9&v=4",
+      "followers": 222,
+      "publicRepos": 137,
+      "stars": 370,
+      "updatedAt": 1595494926
+    },
+    {
+      "id": "cokia",
+      "name": "hanukoon",
+      "bio": "Student in Korea Digital Media High school Web-programming Department. interested in Hardware, Digital Forensic, Blockchain, Server programming😀",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/24792377?s=88&u=f4f5f9403deb3df58ff58448209cdada615bfeeb&v=4",
+      "followers": 112,
+      "publicRepos": 84,
+      "stars": 149,
+      "updatedAt": 1595494938
+    },
+    {
+      "id": "smsmsmsmin",
+      "name": "Lee Seungmin",
+      "bio": "당신과 나를 위한 코드를 작성합니다.",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/49827449?s=88&u=849c03fd483c7fea63eb519cbac0b27f35fbcfcb&v=4",
+      "followers": 47,
+      "publicRepos": 33,
+      "stars": 16,
+      "updatedAt": 1595494948
+    },
+    {
+      "id": "Changemin",
+      "name": "Byun Kyung Min",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/28175067?s=88&u=3e2de1c3a2d80b2f79df8dd138b3a1cb033df8a6&v=4",
+      "followers": 37,
+      "publicRepos": 31,
+      "stars": 61,
+      "updatedAt": 1595494956
+    },
+    {
+      "id": "a1p4ca",
+      "name": "SeongMin Park",
+      "bio": "코딩감수성",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/13712304?s=88&u=0c4d254048431f1db7ba6b1797a548610a6e959e&v=4",
+      "followers": 96,
+      "publicRepos": 51,
+      "stars": 31,
+      "updatedAt": 1595494966
+    },
+    {
+      "id": "ChalkPE",
+      "name": "Chalk",
+      "bio": "Internet Exploder™",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/9481405?s=88&u=7ad1bde992b0812313d0085459c41bc887623b48&v=4",
+      "followers": 211,
+      "publicRepos": 128,
+      "stars": 291,
+      "updatedAt": 1595494983
+    },
+    {
+      "id": "choich",
+      "name": "Chanhwan Choi",
+      "bio": "ad libitum.",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/13517510?s=88&u=86b2f289b4e03a5c200b62d551c69a481b770719&v=4",
+      "followers": 25,
+      "publicRepos": 6,
+      "stars": 4,
+      "updatedAt": 1595494991
+    },
+    {
+      "id": "dewberry9",
+      "name": "dewberry9",
+      "bio": "A Boy Playing on the Sea-shore of Color, Symbol, and Layout.",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/20466516?s=88&v=4",
+      "followers": 7,
+      "publicRepos": 4,
+      "stars": 0,
+      "updatedAt": 1595495004
+    },
+    {
+      "id": "hjh010501",
+      "name": "kidevelop",
+      "bio": "🔥2020 KAISTian",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/17137872?s=88&u=360eb55dbd7e6c426950f88d3f1285a549f7c1e1&v=4",
+      "followers": 45,
+      "publicRepos": 45,
+      "stars": 49,
+      "updatedAt": 1595495011
+    },
+    {
+      "id": "HyeokjinKang",
+      "name": "Coupy",
+      "bio": "Bobwar",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/63301941?s=88&u=2f6298e3b59161b7d71f51a9c6fa7dcadf106bce&v=4",
+      "followers": 20,
+      "publicRepos": 7,
+      "stars": 22,
+      "updatedAt": 1595495018
+    },
+    {
+      "id": "Jaeseong-CS",
+      "name": "심재성",
+      "bio": "KDMHS 18th Web Programming",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/35318955?s=88&u=e02a8c23feda10329befe7c83b8b518fc6a5a627&v=4",
+      "followers": 18,
+      "publicRepos": 4,
+      "stars": 7,
+      "updatedAt": 1595495028
+    },
+    {
+      "id": "MinSeungHyun",
+      "name": "SeungHyun",
+      "bio": "An Android developer who seeks something novelty.",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/44062683?s=88&u=821924e302b343f47372873994fe015c0163be9d&v=4",
+      "followers": 34,
+      "publicRepos": 29,
+      "stars": 44,
+      "updatedAt": 1595495037
+    },
+    {
+      "id": "rycont",
+      "name": "RyCont (정한)",
+      "bio": "계속해서 떠올라라 => Rising, Continue",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/35295182?s=88&u=d36e8673b08a42cdea61918e67d03d7b2352e57c&v=4",
+      "followers": 37,
+      "publicRepos": 29,
+      "stars": 59,
+      "updatedAt": 1595495042
+    },
+    {
+      "id": "suhdonghwi",
+      "name": "서동휘",
+      "bio": "안녕하세요 동동휘입니다",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/8275026?s=88&u=f7ff37738ec275db8bd0737a91c2b8ef010905f4&v=4",
+      "followers": 95,
+      "publicRepos": 24,
+      "stars": 91,
+      "updatedAt": 1595495049
+    },
+    {
+      "id": "taevel02",
+      "name": "Taehoon",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/38127960?s=88&u=541ef64ec6121328239c2fe5707f524613f8cb22&v=4",
+      "followers": 25,
+      "publicRepos": 41,
+      "stars": 2,
+      "updatedAt": 1595495056
+    },
+    {
+      "id": "uhmseohun",
+      "name": "Seohun Uhm",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/16954420?s=88&u=9d474b731aee27b2e80ace2305b17cf90fe10a93&v=4",
+      "followers": 34,
+      "publicRepos": 25,
+      "stars": 34,
+      "updatedAt": 1595495067
+    },
+    {
+      "id": "Waterticket",
+      "name": "Waterticket",
+      "bio": "Now Playing VSCode",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/29941518?s=88&u=20d07af9ef2871498d7038a32a7451d0f4d927bd&v=4",
+      "followers": 9,
+      "publicRepos": 15,
+      "stars": 12,
+      "updatedAt": 1595495072
+    },
+    {
+      "id": "wjaykim",
+      "name": "Jay Kim",
+      "bio": "Flying Programmer",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/10806659?s=88&u=c6a8ce190d53819299552df51a2e54c318979b86&v=4",
+      "followers": 6,
+      "publicRepos": 7,
+      "stars": 1,
+      "updatedAt": 1595495078
+    },
+    {
+      "id": "wkdwhddn06",
+      "name": "clean",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/33992757?s=88&u=48d4818b55a910c74ccc15b98fa3a21401eb014a&v=4",
+      "followers": 13,
+      "publicRepos": 11,
+      "stars": 16,
+      "updatedAt": 1595495083
+    },
+    {
+      "id": "kdwkr",
+      "name": "Kim-Daewoon",
+      "bio": "KKuTu Korea  CEO, LUNA Developer, Team Crescendo Developer, KDMHS 17HD",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/5188404?s=88&u=b5bd50460969d43895fe00ada81fd523efe53624&v=4",
+      "followers": 58,
+      "publicRepos": 26,
+      "stars": 1,
+      "updatedAt": 1595495091
+    },
+    {
+      "id": "dsa28s",
+      "name": "Dora Lee",
+      "bio": "도라에몽처럼 만능이 되고픈 22살 개발자에요! Scatter Lab Software Engineer (iOS / Android)",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/10934461?s=88&u=6b65fdd470d9e98deb807de9ef9b16892f0bdbe2&v=4",
+      "followers": 184,
+      "publicRepos": 13,
+      "stars": 310,
+      "updatedAt": 1595495105
+    },
+    {
+      "id": "jspark6815",
+      "name": "박재성",
+      "bio": "KDMHS WP 16",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/24457299?s=88&u=71ed93ccee3c13a81d7b6e17c29d30cebc584987&v=4",
+      "followers": 20,
+      "publicRepos": 14,
+      "stars": 8,
+      "updatedAt": 1595495112
+    },
+    {
+      "id": "codnig",
+      "name": "Wonjun Lee",
+      "bio": "Code; Light up the world.",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/31210124?s=88&u=3cae60ebcfb5af1be6d2e92728a626ed30b2ed84&v=4",
+      "followers": 24,
+      "publicRepos": 25,
+      "stars": 3,
+      "updatedAt": 1595495117
+    },
+    {
+      "id": "juckchang",
+      "name": "juchang",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/29926133?s=88&u=3b4bc81170c39ef73675fb8b986d457311948740&v=4",
+      "followers": 45,
+      "publicRepos": 9,
+      "stars": 11,
+      "updatedAt": 1595495122
+    },
+    {
+      "id": "ch4n3-yoon",
+      "name": "SeokChan-Yoon",
+      "bio": "Majoring in computer engineering at Kyung Hee University / Graduated from Hacking Defense Department at Korea Digital Media High School / Interested in *PWN*",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/13852925?s=88&u=8751684aaf4537da5470164c89f67353b0898880&v=4",
+      "followers": 70,
+      "publicRepos": 51,
+      "stars": 88,
+      "updatedAt": 1595495130
+    },
+    {
+      "id": "angrypig7",
+      "name": "angrypig",
+      "bio": "hardware developer - SSU Electronic Engineering, KDMHS 16HD",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/26675060?s=88&v=4",
+      "followers": 16,
+      "publicRepos": 19,
+      "stars": 10,
+      "updatedAt": 1595495136
+    },
+    {
+      "id": "0226daniel",
+      "name": "김지섭",
+      "bio": "UniPad Founder, KDMHS 16HD, HUFS 공과대학 20학번",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/16677125?s=88&u=c57d1e03fcc76388d9045afe7af9d51dc668dd41&v=4",
+      "followers": 58,
+      "publicRepos": 18,
+      "stars": 5,
+      "updatedAt": 1595495140
+    },
+    {
+      "id": "devxoul",
+      "name": "Suyeol Jeon",
+      "bio": "A lazy developer 😴 I write many code to write less code.",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/931655?s=88&u=c074012fad2e9af233981fe457c53dee67b2b6bd&v=4",
+      "followers": null,
+      "publicRepos": 182,
+      "stars": 15649,
+      "updatedAt": 1595495170
+    },
+    {
+      "id": "bhbh1226",
+      "name": "bhbh1226",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/27873685?s=88&u=ce7710fd4b0f5c5f365adc2529e6f22c7ad4d9dd&v=4",
+      "followers": 9,
+      "publicRepos": 2,
+      "stars": 12,
+      "updatedAt": 1595495174
+    },
+    {
+      "id": "kattpish",
+      "name": "kattpish",
+      "bio": "안다해 모른다해",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/40231548?s=88&u=551da22f653c9f516a8e995923d8740e1511328b&v=4",
+      "followers": 16,
+      "publicRepos": 15,
+      "stars": 0,
+      "updatedAt": 1595495178
+    },
+    {
+      "id": "codertimo",
+      "name": "Junseong Kim",
+      "bio": "Scatter Lab, Machine Learning Research Scientist, NLP",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/9063575?s=88&u=095dadf559372d5456732c1aed6153d129917362&v=4",
+      "followers": 436,
+      "publicRepos": 13,
+      "stars": 3749,
+      "updatedAt": 1595495183
+    },
+    {
+      "id": "JSpiner",
+      "name": "정성민",
+      "bio": "TrustMe I'm engineeeer",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/5474864?s=88&u=f56a5b84a85909f40be7a0964045c55fe96409da&v=4",
+      "followers": 216,
+      "publicRepos": 95,
+      "stars": 334,
+      "updatedAt": 1595495214
+    },
+    {
+      "id": "atkodev",
+      "name": "JuunKi Jin",
+      "bio": "Be The Pro.",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/14937572?s=88&u=037d80263355134c3efbf2a42f42e93d4e761544&v=4",
+      "followers": 60,
+      "publicRepos": 3,
+      "stars": 11,
+      "updatedAt": 1595495218
+    },
+    {
+      "id": "hyemdooly",
+      "name": "Song Hye Min",
+      "bio": "KDMHS 14 Web Programming Studying at Dongguk Univ. Computer Science Engineering 2nd Grade Interested in Android(Kotlin) / Python",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/15646373?s=88&u=34164e3aea5d974cfcf2c4b8ad3f209c7dd74b70&v=4",
+      "followers": 37,
+      "publicRepos": 5,
+      "stars": 2,
+      "updatedAt": 1595495226
+    },
+    {
+      "id": "shimika",
+      "name": "Jihoon Yoon",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/4963314?s=88&u=4dd2fb9c33b23457a4ba312c65548aed875a3107&v=4",
+      "followers": 26,
+      "publicRepos": 34,
+      "stars": 13,
+      "updatedAt": 1595495236
+    },
+    {
+      "id": "hyeongyun0916",
+      "name": "Hyunkyun Moon",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/27265773?s=88&u=55e68f1038ff2c3e0e90e0c41afd3eaf54462e96&v=4",
+      "followers": 9,
+      "publicRepos": 9,
+      "stars": 6,
+      "updatedAt": 1595495241
+    },
+    {
+      "id": "kairos03",
+      "name": "EunSeop Shin",
+      "bio": "MLVC-Lab (2018~); Kakao-games AI-TF team (2017); Data Engineer at KIST-Europe (2017);",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/6357456?s=88&u=7053af892a92bc63aa8bc50ee866ef8caf183b2e&v=4",
+      "followers": 26,
+      "publicRepos": 59,
+      "stars": 50,
+      "updatedAt": 1595495252
+    },
+    {
+      "id": "gtw04",
+      "name": "gtw04",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/16648234?s=88&u=2c111ab1e5ad74f110a9dbf45f699a79378f2db5&v=4",
+      "followers": 2,
+      "publicRepos": 5,
+      "stars": 0,
+      "updatedAt": 1595495257
+    },
+    {
+      "id": "iriszero",
+      "name": "Jason Huh",
+      "bio": "http://jshuh.com",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/12826088?s=88&v=4",
+      "followers": 32,
+      "publicRepos": 42,
+      "stars": 5,
+      "updatedAt": 1595495265
+    },
+    {
+      "id": "synchrok",
+      "name": "Woosung Jeon",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/1309940?s=88&u=60740bca1aeb0cd3e9bcc2563e702b15a092ed72&v=4",
+      "followers": 23,
+      "publicRepos": 12,
+      "stars": 105,
+      "updatedAt": 1595495270
+    },
+    {
+      "id": "pjc0247",
+      "name": "Park June Chul",
+      "bio": "This is a cat.",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/1961216?s=88&u=0b5d1937e405df1e0cbd6cadef8003d0f451fb23&v=4",
+      "followers": 88,
+      "publicRepos": 305,
+      "stars": 393,
+      "updatedAt": 1595495314
+    },
+    {
+      "id": "Rinirihiriro",
+      "name": "Min-soo Park",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/6296785?s=88&v=4",
+      "followers": 26,
+      "publicRepos": 12,
+      "stars": 186,
+      "updatedAt": 1595495322
+    },
+    {
+      "id": "IkwhanChang",
+      "name": "Matthew Chang",
+      "bio": "Founder / Devops / Fullstack Developer @Urhyme",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/20575101?s=88&u=f87a18bc90955370f09d007ed481c15c8db56140&v=4",
+      "followers": 17,
+      "publicRepos": 40,
+      "stars": 12,
+      "updatedAt": 1595495336
+    },
+    {
+      "id": "Dongyeongkim",
+      "name": "Dongyeong Kim",
+      "bio": "Intel ISEF 18-19 Finalist in  Systems Software",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/42883224?s=88&u=7754b8cb1d0eda5b965ed97021e4a53dd16b8478&v=4",
+      "followers": 20,
+      "publicRepos": 15,
+      "stars": 18,
+      "updatedAt": 1595495357
+    },
+    {
+      "id": "endlessdev",
+      "name": "Jade Yeom",
+      "bio": "EXPERIMENT, FAIL, LEARN, REPEAT.",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/3799158?s=88&u=ae76453a57e82e7319dc55ddf460041c86b694c7&v=4",
+      "followers": 52,
+      "publicRepos": 69,
+      "stars": 45,
+      "updatedAt": 1595495375
+    },
+    {
+      "id": "Prev",
+      "name": "Youngsoo Lee",
+      "bio": "Graduate Student",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/3872573?s=88&u=39e4987b9faf0aba26c9bb7ec871dfd1115ef512&v=4",
+      "followers": 56,
+      "publicRepos": 33,
+      "stars": 124,
+      "updatedAt": 1595495385
+    },
+    {
+      "id": "DoHyeong",
+      "name": "DoHyeong",
+      "bio": "a",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/4898644?s=88&v=4",
+      "followers": 6,
+      "publicRepos": 7,
+      "stars": 4,
+      "updatedAt": 1595495389
+    },
+    {
+      "id": "kooa23",
+      "name": "LeeJaehun",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/5018079?s=88&v=4",
+      "followers": 0,
+      "publicRepos": 2,
+      "stars": 0,
+      "updatedAt": 1595495394
+    },
+    {
+      "id": "sur801",
+      "name": "yurim",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/5088280?s=88&u=1ad7cb090326884a49912c53392693694d955337&v=4",
+      "followers": 5,
+      "publicRepos": 18,
+      "stars": 0,
+      "updatedAt": 1595495404
+    },
+    {
+      "id": "SeongHwiShin",
+      "name": "SeongHwi Shin",
+      "bio": "Korea Digital Media Highschool 14th Hacking defense major 2015.09 ~ 2018.02 Pwnable/Webhacking/Android",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/19940857?s=88&u=2412dd20f67026764faa45d1f0c54fd8ce4f0d35&v=4",
+      "followers": 22,
+      "publicRepos": 11,
+      "stars": 3,
+      "updatedAt": 1595495414
+    },
+    {
+      "id": "uowol",
+      "name": "uOwOn",
+      "bio": "Korea Digital Media High School Student Pabix 2기 일반동아리장",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/20416616?s=88&u=2868ebb413dcc338f9b57081ea8d71ae34d57bca&v=4",
+      "followers": 3,
+      "publicRepos": 12,
+      "stars": 0,
+      "updatedAt": 1595495420
+    },
+    {
+      "id": "LightLiberaterZone",
+      "name": "Yoo Bin Kim",
+      "bio": "Korean Digital Media High Web-Programming. Work With @Dongyeongkim.",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/50001443?s=88&u=84cf9222f6a9c5aec89b4c5b0470384e823a6457&v=4",
+      "followers": 3,
+      "publicRepos": 8,
+      "stars": 0,
+      "updatedAt": 1595495425
+    },
+    {
+      "id": "1000ship",
+      "name": "1000ship",
+      "bio": "🏫Korea Digital Media High School '12~'14 / 🎓Hongik Univ. Computer Engineering '16 / 🦁 Like-Lion '16 / 🖥Software Maestro 19'",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/2270565?s=88&u=13bee5b3b6d137edea895a4a0a19e50e75fe3307&v=4",
+      "followers": 4,
+      "publicRepos": 17,
+      "stars": 6,
+      "updatedAt": 1595495428
+    },
+    {
+      "id": "cos18",
+      "name": "Sungwoo Park",
+      "bio": "👨‍💻 42Seoul Cadet / SKKU comedu18 / KDMHS WP14",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/33975709?s=88&u=05bfea3fcbe8d0122fad2fef830b8f7a2f193bd0&v=4",
+      "followers": 32,
+      "publicRepos": 24,
+      "stars": 14,
+      "updatedAt": 1595495433
+    },
+    {
+      "id": "SngsuNoh",
+      "name": "HAIL",
+      "bio": "Seoung Su 'HAIL' Noh. Hanyang University, Chemical Engineering",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/19284721?s=88&u=302cbfb82b3f24d752ff02adccba72764bd36996&v=4",
+      "followers": 11,
+      "publicRepos": 8,
+      "stars": 1,
+      "updatedAt": 1595495437
+    },
+    {
+      "id": "sookcha",
+      "name": "Hoseong Son",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/1160378?s=88&v=4",
+      "followers": 86,
+      "publicRepos": 28,
+      "stars": 27,
+      "updatedAt": 1595495443
+    },
+    {
+      "id": "joona0825",
+      "name": "Junha Woo",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/5886219?s=88&u=ca48403f437990092bbce4512323616f1b3325ce&v=4",
+      "followers": 9,
+      "publicRepos": 9,
+      "stars": 7,
+      "updatedAt": 1595495447
+    },
+    {
+      "id": "kattergil",
+      "name": "Beomjun Gil",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/24666383?s=88&u=5ab1444a5825ddf7ddd8fbfe037bfca27f91cb34&v=4",
+      "followers": 18,
+      "publicRepos": 50,
+      "stars": 10,
+      "updatedAt": 1595495458
+    },
+    {
+      "id": "min-uuu",
+      "name": "민유",
+      "bio": "나와 당신, 우리의 꿈을 꾸는 기획자",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/63281188?s=88&u=4ec4bbe48223f65b0a87e2f4656583c521e945c1&v=4",
+      "followers": 22,
+      "publicRepos": 4,
+      "stars": 27,
+      "updatedAt": 1595495464
+    },
+    {
+      "id": "SYWoo2003",
+      "name": "Morpheus",
+      "bio": "KDMHS 18 HD",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/45890761?s=88&u=200247bd05c763dc42e0e359d8a886783d2ee7c2&v=4",
+      "followers": 16,
+      "publicRepos": 14,
+      "stars": 5,
+      "updatedAt": 1595495469
+    },
+    {
+      "id": "watxh",
+      "name": "JungMin Kang",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/46243553?s=88&u=b002baa244c223090a6f664fb839fb788c8f17b6&v=4",
+      "followers": 23,
+      "publicRepos": 11,
+      "stars": 9,
+      "updatedAt": 1595495473
+    },
+    {
+      "id": "JetProc",
+      "name": "JetProc",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/46674347?s=88&u=f372583a08af5df27070b01a4aeec7df4f37e368&v=4",
+      "followers": 5,
+      "publicRepos": 2,
+      "stars": 0,
+      "updatedAt": 1595495476
+    },
+    {
+      "id": "harugatto",
+      "name": "송지호",
+      "bio": "KDMHS HD 18th   ❤️❤️조유리❤️❤️",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/46417868?s=88&u=986c66f860f0e40b7483eef7c1b47faf2c5f0123&v=4",
+      "followers": 16,
+      "publicRepos": 10,
+      "stars": 3,
+      "updatedAt": 1595495482
+    },
+    {
+      "id": "electrochemistry04",
+      "name": "LEETJ",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/48921632?s=88&u=bfcb653734e9b77d5a9cc122cae6ba7ee1c35bf5&v=4",
+      "followers": 9,
+      "publicRepos": 1,
+      "stars": 0,
+      "updatedAt": 1595495488
+    },
+    {
+      "id": "sqrtpi177",
+      "name": "사호준",
+      "bio": "KDMHS 19WP",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/61705727?s=88&u=bab65b1ccdb6bcaa75a1a1303336523c32248b88&v=4",
+      "followers": 10,
+      "publicRepos": 6,
+      "stars": 7,
+      "updatedAt": 1595495492
+    },
+    {
+      "id": "kwanwoo0122",
+      "name": "Kwan Woo Kim",
+      "bio": "무럭무럭 자라나는 개발자입니다 :)",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/48977094?s=88&u=41833bb0162bd2e7ccb188af0699bc541bc4e229&v=4",
+      "followers": 15,
+      "publicRepos": 6,
+      "stars": 8,
+      "updatedAt": 1595495499
+    },
+    {
+      "id": "yoonseo7",
+      "name": "고윤서",
+      "bio": "18WP Yoonseo Ko",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/30685254?s=88&v=4",
+      "followers": 7,
+      "publicRepos": 0,
+      "stars": 0,
+      "updatedAt": 1595495503
+    },
+    {
+      "id": "CraftyDragon678",
+      "name": "CraftyDragon678",
+      "bio": "KDMHS 19HD",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/25890954?s=88&u=def05a01596e227a64f497ebaf1caf7b65f7ce65&v=4",
+      "followers": 20,
+      "publicRepos": 32,
+      "stars": 18,
+      "updatedAt": 1595495511
+    },
+    {
+      "id": "hrg921",
+      "name": "GeonHo Tony Han",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/11473937?s=88&u=b904718451fd4974722bbdaaaa218c11d09f133a&v=4",
+      "followers": 14,
+      "publicRepos": 49,
+      "stars": 11,
+      "updatedAt": 1595495522
+    },
+    {
+      "id": "HIPERCUBE",
+      "name": "Joowon Ryoo",
+      "bio": "Devsisters, Server Software Engineer",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/7427370?s=88&u=cacb439b1462f5c9eeea2f6901555c0d3c6095ef&v=4",
+      "followers": 48,
+      "publicRepos": 47,
+      "stars": 111,
+      "updatedAt": 1595495530
+    },
+    {
+      "id": "therne",
+      "name": "Hyojun Kim",
+      "bio": "Bridging the gaps through technology. Backend, Data Engineering and Blockchain.",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/1618736?s=88&u=cc9619673221b40841367662b31cd201534c9418&v=4",
+      "followers": 105,
+      "publicRepos": 47,
+      "stars": 460,
+      "updatedAt": 1595495542
+    },
+    {
+      "id": "skyclad0x7b7",
+      "name": "Sanghyeon Jeon",
+      "bio": "Python/C++/Information Security/Network/Reversing",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/13326895?s=88&u=6fe0c49edac5f13c0f7f95a4894d320749d137bc&v=4",
+      "followers": 16,
+      "publicRepos": 21,
+      "stars": 10,
+      "updatedAt": 1595495546
+    },
+    {
+      "id": "Revimal",
+      "name": "Hyeonho Seo",
+      "bio": "Work in Fast-path packet processing, Kernel NetDev, DPDK",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/12669899?s=88&u=8800a51410903a28f0e58cdb93b3291cd5abc773&v=4",
+      "followers": 20,
+      "publicRepos": 18,
+      "stars": 22,
+      "updatedAt": 1595495551
+    },
+    {
+      "id": "kwonbosung02",
+      "name": "BOSUNGG",
+      "bio": "python & Arduino & Raspberry pi developer",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/39987108?s=88&u=41b066fd7564acd13bc38d16dc037df4d73e02e7&v=4",
+      "followers": 13,
+      "publicRepos": 31,
+      "stars": 75,
+      "updatedAt": 1595495558
+    },
+    {
+      "id": "chris-chris",
+      "name": "Chris Hoyean Song",
+      "bio": "Google Developer Experts for Machine Learning / RL is my girl friend.",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/3013964?s=88&u=deb87093dec765e91f4556548ddeb9dd81313a23&v=4",
+      "followers": 242,
+      "publicRepos": 129,
+      "stars": 1175,
+      "updatedAt": 1595495575
+    },
+    {
+      "id": "ildoonet",
+      "name": "Ildoo Kim",
+      "bio": "AI Researcher / Software Engineer",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/1115758?s=88&u=4d836dddd4a04ab18fddee32200f4ebc0ef1e344&v=4",
+      "followers": 740,
+      "publicRepos": 48,
+      "stars": 5311,
+      "updatedAt": 1595495582
+    },
+    {
+      "id": "Dry8r3aD",
+      "name": "Gunyoung Yoon",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/5144422?s=88&u=db337bce966e600254cfe34436676cb401f15aad&v=4",
+      "followers": 23,
+      "publicRepos": 75,
+      "stars": 6,
+      "updatedAt": 1595495591
+    },
+    {
+      "id": "minsoopark",
+      "name": "Minsoo Park",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/1253530?s=88&u=c7644b7ffea7fe28b4b82134166e77dc38f486a7&v=4",
+      "followers": 51,
+      "publicRepos": 45,
+      "stars": 122,
+      "updatedAt": 1595495598
+    },
+    {
+      "id": "jeongukjae",
+      "name": "Jeong Ukjae",
+      "bio": "Machine Learning Engineer, interested in Backend and DevOps.",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/8815362?s=88&u=0f8f83185522ffb47b12966e3f7362c92e9c836a&v=4",
+      "followers": 50,
+      "publicRepos": 49,
+      "stars": 124,
+      "updatedAt": 1595495606
+    },
+    {
+      "id": "plantstoen",
+      "name": "Sangmin Kim",
+      "bio": "Product Manager, Frontend(React), Robotics, etc.",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/45596238?s=88&u=c4f2b5898ff87d33e74beda3a597ced3128c4d4a&v=4",
+      "followers": 13,
+      "publicRepos": 10,
+      "stars": 1,
+      "updatedAt": 1595495611
+    },
+    {
+      "id": "64json",
+      "name": "Jinseo Park",
+      "bio": "Owner of @algorithm-visualizer",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/1618732?s=88&u=fda8388078bbb1342ef513aa089604d98607e0e2&v=4",
+      "followers": 917,
+      "publicRepos": 44,
+      "stars": 571,
+      "updatedAt": 1595495620
+    },
+    {
+      "id": "yoloseem",
+      "name": "Hyunjun Kim",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/249795?s=88&u=4f9256429012542113970f7461768ad50d2559a6&v=4",
+      "followers": 99,
+      "publicRepos": 110,
+      "stars": 704,
+      "updatedAt": 1595495639
+    },
+    {
+      "id": "Luavis",
+      "name": "Luavis",
+      "bio": "생계코딩",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/1534596?s=88&u=20899788d5f9a02821e842f408be625a9716f3dc&v=4",
+      "followers": 82,
+      "publicRepos": 76,
+      "stars": 245,
+      "updatedAt": 1595495649
+    },
+    {
+      "id": "hiddenest",
+      "name": "Chanhee Lee",
+      "bio": "Build Non-visual things inside of Visual one. Front-end Developer. interested in design too.",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/8682478?s=88&u=245ee4664b59f8c157a7388a825678b7aadc0ebb&v=4",
+      "followers": 46,
+      "publicRepos": 11,
+      "stars": 8,
+      "updatedAt": 1595495655
+    },
+    {
+      "id": "juungbae",
+      "name": "배주웅",
+      "bio": "Code for fun / ABLY Inc.",
+      "avatarURL": "https://avatars2.githubusercontent.com/u/3102705?s=88&u=6896018ce23ce110dca57e448a91802faa6a1c39&v=4",
+      "followers": 22,
+      "publicRepos": 20,
+      "stars": 1,
+      "updatedAt": 1595495662
+    },
+    {
+      "id": "JungWinter",
+      "name": "Winter Jung",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/13811604?s=88&u=4224297ac21c625fd85c6f77fc335ec2745d4845&v=4",
+      "followers": 137,
+      "publicRepos": 21,
+      "stars": 222,
+      "updatedAt": 1595495679
+    },
+    {
+      "id": "ssut",
+      "name": "SuHun Han",
+      "bio": "Node, and Go enthusiast.",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/2366668?s=88&u=c947495ce7ec28d8cbfce5097c52e550341409de&v=4",
+      "followers": 145,
+      "publicRepos": 91,
+      "stars": 2233,
+      "updatedAt": 1595495692
+    },
+    {
+      "id": "susemeee",
+      "name": "Suho Lee",
+      "bio": "Amateur Astrophotographer",
+      "avatarURL": "https://avatars3.githubusercontent.com/u/4835442?s=88&u=87e4a94ee36bf47d858bca6dd0b605743dcdaa60&v=4",
+      "followers": 21,
+      "publicRepos": 49,
+      "stars": 17,
+      "updatedAt": 1595495699
+    },
+    {
+      "id": "h4wldev",
+      "name": "Hawl Kim",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars1.githubusercontent.com/u/14465407?s=88&u=1f1c6de7034b6389e92aea1f871498f8a3e7835b&v=4",
+      "followers": 21,
+      "publicRepos": 17,
+      "stars": 44,
+      "updatedAt": 1595495704
+    },
+    {
+      "id": "pRivAte12",
+      "name": "ParkJaesung",
+      "bio": "결과 없음",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/11798004?s=88&u=8a8c79b9b529699f24a0e05ab913fc780070555e&v=4",
+      "followers": 46,
+      "publicRepos": 22,
+      "stars": 30,
+      "updatedAt": 1595495709
+    },
+    {
+      "id": "auspic7",
+      "name": "Myeongwon Choi",
+      "bio": "Chung-Ang University, School of Computer Science & Engineering",
+      "avatarURL": "https://avatars0.githubusercontent.com/u/36367286?s=88&u=2b2c37d3c24816e5d26bf255b8dce099437f5551&v=4",
+      "followers": 2,
+      "publicRepos": 23,
+      "stars": 3,
+      "updatedAt": 1595495715
+    }
+  ]
 }
