@@ -1,6 +1,6 @@
-import parseUser from '.';
-import { IUser } from '../../models/User';
-import { SECONDS } from '../../utils/constants';
+import parseUser from './parseUser';
+import { IUser } from '../models/User';
+import { SECONDS } from '../utils/constants';
 
 describe('Parse user information', () => {
   test('Parse user information from userID', async () => {
