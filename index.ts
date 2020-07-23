@@ -1,13 +1,11 @@
-import ejs from 'ejs';
-
 import parseAllowList from './actions/parseAllowList';
 import parseUser from './actions/parseUser';
 import getRankedUsers from './actions/getRankedUsers';
+import renderHTMLFromRanked from './actions/renderHTMLFromRanked';
 
 import updateUser from './database/updateUser';
 import getAllUsers from './database/getAllUsers';
 
-import readFileAsync from './utils/readFileAsync';
 import writeFileAsync from './utils/writeFileAsync';
 
 async function updateDatabaseFromAllowList(): Promise<void> {
@@ -35,11 +33,8 @@ async function main(): Promise<void> {
   // await updateDatabaseFromAllowList();
   const users = getAllUsers();
   const rankedUsers = await getRankedUsers(users);
-
-  const template = (await readFileAsync('./public/build/template.ejs')).toString();
-  const html = ejs.render(template, { rankedUsers });
-
-  await writeFileAsync('./public/build/index.html', html);
+  const renderedHTML = await renderHTMLFromRanked(rankedUsers);
+  await writeFileAsync('./public/build/index.html', renderedHTML);
 }
 
 main();
