@@ -8,6 +8,7 @@ import updateUser from './database/updateUser';
 import getAllUsers from './database/getAllUsers';
 
 import readFileAsync from './utils/readFileAsync';
+import writeFileAsync from './utils/writeFileAsync';
 
 async function updateDatabaseFromAllowList(): Promise<void> {
   const allowList = await parseAllowList();
@@ -34,11 +35,11 @@ async function main(): Promise<void> {
   // await updateDatabaseFromAllowList();
   const users = getAllUsers();
   const rankedUsers = await getRankedUsers(users);
-  console.log(rankedUsers);
 
   const template = (await readFileAsync('./public/build/template.ejs')).toString();
   const html = ejs.render(template, { rankedUsers });
-  console.log(html);
+
+  await writeFileAsync('./public/build/index.html', html);
 }
 
 main();
