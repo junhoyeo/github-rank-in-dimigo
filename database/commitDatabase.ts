@@ -6,6 +6,7 @@ export default async function commitDatabase() {
     add: true,
     history: true,
     message: '🎉 Update Database',
+    src: 'database/database.json',
   });
   console.log('🎉 Updated database.json to master');
 }
