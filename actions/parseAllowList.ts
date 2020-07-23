@@ -1,9 +1,5 @@
-import fs from 'fs';
-import util from 'util';
-
+import readFileAsync from '../utils/readFileAsync';
 import getTrimmedLinesFromText from '../utils/getTrimmedLinesFromText';
-
-const readFileAsync = util.promisify(fs.readFile);
 
 export default async function parseAllowList(): Promise<string[]> {
   const allowList = getTrimmedLinesFromText(
