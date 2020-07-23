@@ -12,6 +12,7 @@ interface IGhPagesConfig {
     email: string;
   }
 }
+
 export default function publishAsync(directoryName: string, config: IGhPagesConfig = {}): Promise<void> {
   const publishConfig = {
     ...config,
@@ -26,6 +27,7 @@ export default function publishAsync(directoryName: string, config: IGhPagesConf
       if (error) {
         reject(error);
       }
+      ghpages.clean();
       resolve();
     });
   });
