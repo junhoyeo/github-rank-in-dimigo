@@ -6,3 +6,8 @@ export interface IUserProfile {
   followers: number;
   publicRepos: number;
 }
+
+export interface IUser extends IUserProfile {
+  stars: number;
+  updatedAt: number;
+}
