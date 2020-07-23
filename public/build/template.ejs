@@ -61,45 +61,45 @@
         </tr>
       </thead>
       <tbody>
-        {% for user in ranked_users %}
-        <tr>
-          <td>
-            {{ user.rank }}
-          </td>
-          <td>
-            <a
-              href="https://github.com/{{ user.id }}"
-              target="_blank"
-            >
+        <% rankedUsers.forEach((user) => { %>
+          <tr>
+            <td>
+              <%= user.rank %>
+            </td>
+            <td>
+              <a
+                href="https://github.com/<%= user.id %>"
+                target="_blank"
+              >
+                <strong>
+                  <%= user.name %>
+                </strong>
+              </a>
+            </td>
+            <td>
               <strong>
-                {{ user.name }}
+                <%= user.stars %>
               </strong>
-            </a>
-          </td>
-          <td>
-            <strong>
-              {{ user.stars }}
-            </strong>
-          </td>
-          <td>
-            <img
-              src="{{ user.avatar_url }}&s=256"
-              style="border-radius: 50%; min-width: 84px; height: 84px; border: 1px solid rgba(128, 128, 128, 0.3);"
-            >
-          </td>
-          <td>
-            <div class="row">
-              {{ user.bio }}
-            </div>
-            <div
-              class="row"
-              style="color: rgb(180, 180, 180);"
-            >
-              <small>{{ user.public_repos }} public repos, {{ user.followers }} followers. Updated at {{ user.updated_at }}</small>
-            </div>
-          </td>
-        </tr>
-        {% endfor %}
+            </td>
+            <td>
+              <img
+                src="<%= user.avatarURL %>&s=256"
+                style="border-radius: 50%; min-width: 84px; height: 84px; border: 1px solid rgba(128, 128, 128, 0.3);"
+              >
+            </td>
+            <td>
+              <div class="row">
+                <%= user.bio %>
+              </div>
+              <div
+                class="row"
+                style="color: rgb(180, 180, 180);"
+              >
+                <small><%= user.publicRepos %> public repos, <%= user.followers %> followers. Updated at <%= user.updatedAt %></small>
+              </div>
+            </td>
+          </tr>
+        <% }); %>
       </tbody>
     </table>
   </div>
