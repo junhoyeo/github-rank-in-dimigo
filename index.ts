@@ -4,8 +4,9 @@ import getRankedUsers from './actions/getRankedUsers';
 import renderHTMLFromRanked from './actions/renderHTMLFromRanked';
 import deployToGitHubPages from './actions/deployToGitHubPages';
 
-import updateUser from './database/updateUser';
+import commitDatabase from './database/commitDatabase';
 import getAllUsers from './database/getAllUsers';
+import updateUser from './database/updateUser';
 
 import { SECONDS } from './utils/constants';
 import delayForMilliseconds from './utils/delayForMilliseconds';
@@ -44,6 +45,7 @@ async function main(): Promise<void> {
   const users = getAllUsers();
   const rankedUsers = await getRankedUsers(users);
   console.log('🏆 Ranked users!');
+  await commitDatabase();
 
   const renderedHTML = await renderHTMLFromRanked(rankedUsers);
   await writeFileAsync('./public/build/index.html', renderedHTML);
