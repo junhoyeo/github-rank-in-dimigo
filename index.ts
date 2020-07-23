@@ -2,6 +2,7 @@ import parseAllowList from './actions/parseAllowList';
 import parseUser from './actions/parseUser';
 import getRankedUsers from './actions/getRankedUsers';
 import renderHTMLFromRanked from './actions/renderHTMLFromRanked';
+import deployToGitHubPages from './actions/deployToGitHubPages';
 
 import updateUser from './database/updateUser';
 import getAllUsers from './database/getAllUsers';
@@ -35,6 +36,7 @@ async function main(): Promise<void> {
   const rankedUsers = await getRankedUsers(users);
   const renderedHTML = await renderHTMLFromRanked(rankedUsers);
   await writeFileAsync('./public/build/index.html', renderedHTML);
+  await deployToGitHubPages();
 }
 
 main();
