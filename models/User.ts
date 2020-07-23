@@ -9,5 +9,10 @@ export interface IUserProfile {
 
 export interface IUser extends IUserProfile {
   stars: number;
-  updatedAt: number;
+  updatedAt: number | string;
+}
+
+export interface IRankedUser extends Required<IUser> {
+  rank: number;
+  updatedAt: string;
 }
