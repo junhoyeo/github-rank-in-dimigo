@@ -7,6 +7,8 @@ import deployToGitHubPages from './actions/deployToGitHubPages';
 import updateUser from './database/updateUser';
 import getAllUsers from './database/getAllUsers';
 
+import { SECONDS } from './utils/constants';
+import delayForMilliseconds from './utils/delayForMilliseconds';
 import writeFileAsync from './utils/writeFileAsync';
 
 async function updateDatabaseFromAllowList(): Promise<void> {
@@ -21,6 +23,7 @@ async function updateDatabaseFromAllowList(): Promise<void> {
       try {
         const user = await parseUser(userID);
         updateUser(user);
+        delayForMilliseconds(3 * SECONDS);
         console.log(`✅ Updated user "${user.name}"`);
         isErrorResolved = true;
       } catch (error) {
