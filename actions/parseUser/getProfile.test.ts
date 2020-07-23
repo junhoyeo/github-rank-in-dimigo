@@ -24,4 +24,14 @@ describe('Get user profile', () => {
     const information: IUserProfile = await getProfile('uhmseohun');
     expect(information.bio).toEqual(null);
   }, 30 * SECONDS);
+
+  test('Get followers more then 1k', async () => {
+    const information: IUserProfile = await getProfile('devxoul');
+    expect(information.followers).toBeGreaterThan(2000);
+  }, 30 * SECONDS);
+
+  test('Get followers more then anyone else in the world', async () => {
+    const information: IUserProfile = await getProfile('torvalds');
+    expect(information.followers).toBeGreaterThan(100000);
+  }, 30 * SECONDS);
 });
