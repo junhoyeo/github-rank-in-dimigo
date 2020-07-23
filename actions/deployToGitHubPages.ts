@@ -2,6 +2,7 @@ import ghpages from 'gh-pages';
 
 interface IGhPagesConfig {
   src?: string | string[];
+  repo?: string;
 }
 
 const publishAsync = (directoryName: string, config: IGhPagesConfig = {}) => {
@@ -25,6 +26,7 @@ export default async function deployToGitHubPages(): Promise<void> {
         'index.html',
         'og-image.png',
       ],
+      repo: `https://${process.env.GH_TOKEN}@github.com/junhoyeo/github-rank-in-dimigo.git`,
     });
     console.log('🚀 Published to gh-pages');
   } catch (error) {
