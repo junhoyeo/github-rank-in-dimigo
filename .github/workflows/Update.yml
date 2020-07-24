@@ -3,9 +3,6 @@ on:
   push:
     branches:
       - master
-  schedule:
-    # Update at midnight, every 3 days (72 hours)
-    - cron: "0 */72 * * *"
 
 jobs:
   update:
