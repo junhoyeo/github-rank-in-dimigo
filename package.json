@@ -7,7 +7,8 @@
   "scripts": {
     "build": "rm -rf dist && tsc && cp ./ALLOWLIST ./dist && cp -R public ./dist",
     "start": "node dist/index.js",
-    "test": "jest"
+    "test": "jest",
+    "deploy": "gh-pages -d public/build"
   },
   "dependencies": {
     "axios": "^0.19.2",
