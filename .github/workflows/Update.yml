@@ -20,6 +20,15 @@ jobs:
         run: yarn build
 
       - name: Update
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: yarn start
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: public/build
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
