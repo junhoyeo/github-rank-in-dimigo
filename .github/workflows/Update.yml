@@ -3,6 +3,7 @@ on:
   schedule:
     # update every monday, 00:00 -> 09:00 (GMT+9)
     - cron: "0 0 * * 1"
+  workflow_dispatch:
 
 jobs:
   update:
