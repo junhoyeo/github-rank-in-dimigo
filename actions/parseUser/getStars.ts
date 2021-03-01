@@ -6,7 +6,7 @@ import getSumOfNumberArray from '../../utils/getSumOfNumberArray';
 async function _countStarsFromURL(url: string): Promise<number> {
   const { data: html } = await axios.get(url);
   const document = cheerio.load(html);
-  const starCounts = document('a.muted-link.mr-3')
+  const starCounts = document('a.Link--muted.mr-3')
     .toArray()
     .flatMap((anchorReference) => {
       const anchor = cheerio(anchorReference);
