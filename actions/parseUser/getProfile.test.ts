@@ -8,7 +8,7 @@ describe('Get user profile', () => {
 
     expect(information.id).toEqual('junhoyeo');
     expect(information.name).toEqual('Junho Yeo');
-    expect(information.bio).toEqual('Creating INEVITABLE™ Frontend');
+    expect(information.bio).toEqual('Creating INEVITABLE™ Services');
 
     expect(information).toHaveProperty('avatarURL');
     expect(information).toHaveProperty('followers');
