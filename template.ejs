@@ -166,7 +166,7 @@
             </td>
             <td>
               <img
-                src="<%= user.avatarURL %>&s=256"
+                src="<%= user.avatarURL.split('?')[0] + '?s=256' %>"
                 style="
                   border-radius: 50%;
                   min-width: 84px;
