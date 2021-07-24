@@ -31,8 +31,13 @@ jobs:
           user_name: github-actions[bot]
           user_email: github-actions[bot]@users.noreply.github.com
 
+      - name: Set date in environment variable
+        run: echo "DATE=$(date +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_ENV
+
       - name: Commit & Push changes
-        uses: actions-js/push@master
+        uses: Andro999b/push@patch-1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
+          message: >
+            chore: 🏆 Ranked users for ${{ env.DATE }}
