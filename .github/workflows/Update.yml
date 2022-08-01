@@ -1,8 +1,8 @@
 name: Update
 on:
   schedule:
-    # update every monday, 00:00 -> 09:00 (GMT+9)
-    - cron: "0 0 * * 1"
+    # update every monday, 03:00 -> 12:00 (GMT+9)
+    - cron: "0 3 * * 1"
   workflow_dispatch:
 
 jobs:
