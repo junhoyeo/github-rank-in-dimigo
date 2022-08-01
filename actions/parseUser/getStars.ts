@@ -23,7 +23,10 @@ async function _countStarsFromURL(url: string): Promise<number> {
 
   const nextButton = document('a.next_page').first();
   if (nextButton?.text().includes('Next')) {
-    const nextURL = nextButton.attr('href');
+    let nextURL = nextButton.attr('href') ?? '';
+    if (!nextURL?.startsWith('http')) {
+      nextURL = `https://github.com` + nextURL
+    }
     if (nextURL) {
       const nextCounts = await _countStarsFromURL(nextURL);
       return currentCounts + nextCounts;
