@@ -21,7 +21,7 @@ async function _countStarsFromURL(url: string): Promise<number> {
   console.log(starCounts);
   const currentCounts = getSumOfNumberArray(starCounts);
 
-  const nextButton = document('a.btn.btn-outline.BtnGroup-item:last-child').first();
+  const nextButton = document('a.next_page').first();
   if (nextButton?.text().includes('Next')) {
     const nextURL = nextButton.attr('href');
     if (nextURL) {
