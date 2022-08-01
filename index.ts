@@ -23,7 +23,7 @@ async function updateDatabaseFromAllowList(): Promise<void> {
         const user = await parseUser(userID);
         updateUser(user);
         await delayForMilliseconds(3 * SECONDS);
-        console.log(`✅ Updated user "${user.name}"`);
+        console.log(`✅ Updated user "${user.id}"`);
         isErrorResolved = true;
       } catch (error) {
         if (error.response?.statusCode === 429) {
