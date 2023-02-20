@@ -3,13 +3,13 @@
     {
       "id": "junhoyeo",
       "name": "Junho Yeo",
-      "bio": "🦄 19-yo generalist hacker, shaping the 2nd/3rd web.",
+      "bio": "🪄 19 y/o generalist hacker. Building a world where anyone can ship their ideas without restrictions.",
       "avatarURL": "https://avatars.githubusercontent.com/u/32605822?s=64&v=4",
-      "followers": 633,
+      "followers": 638,
       "publicRepos": 301,
-      "stars": 1484,
-      "updatedAt": 1676247699,
-      "changes": 2
+      "stars": 1493,
+      "updatedAt": 1676852544,
+      "changes": 9
     },
     {
       "id": "cokia",
@@ -17,9 +17,9 @@
       "bio": "KDMHS19 - KAIST 23 - interested in Server programming & Cloud Infrastructure😀",
       "avatarURL": "https://avatars.githubusercontent.com/u/24792377?s=64&v=4",
       "followers": 173,
-      "publicRepos": 124,
+      "publicRepos": 125,
       "stars": 228,
-      "updatedAt": 1676247585,
+      "updatedAt": 1676852430,
       "changes": 0
     },
     {
@@ -38,10 +38,10 @@
       "name": "Byun Kyung Min",
       "bio": "I'm still hungry",
       "avatarURL": "https://avatars.githubusercontent.com/u/28175067?s=64&v=4",
-      "followers": 89,
+      "followers": 88,
       "publicRepos": 36,
       "stars": 176,
-      "updatedAt": 1676247420,
+      "updatedAt": 1676852271,
       "changes": 0
     },
     {
@@ -60,21 +60,21 @@
       "name": "Junyoung Park",
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/9481405?s=64&v=4",
-      "followers": 227,
+      "followers": 228,
       "publicRepos": 158,
-      "stars": 344,
-      "updatedAt": 1676247415,
-      "changes": 0
+      "stars": 345,
+      "updatedAt": 1676852265,
+      "changes": 1
     },
     {
       "id": "choich",
       "name": "Chanhwan Choi",
       "bio": "ad libitum.",
       "avatarURL": "https://avatars.githubusercontent.com/u/13517510?s=64&v=4",
-      "followers": 36,
+      "followers": 35,
       "publicRepos": 8,
       "stars": 4,
-      "updatedAt": 1676247562,
+      "updatedAt": 1676852407,
       "changes": 0
     },
     {
@@ -85,7 +85,7 @@
       "followers": 11,
       "publicRepos": 4,
       "stars": 3,
-      "updatedAt": 1676247610,
+      "updatedAt": 1676852455,
       "changes": 0
     },
     {
@@ -93,11 +93,11 @@
       "name": "kidevelop",
       "bio": "🙊 PATCH ➔ 🌏",
       "avatarURL": "https://avatars.githubusercontent.com/u/17137872?s=64&v=4",
-      "followers": 90,
-      "publicRepos": 50,
-      "stars": 190,
-      "updatedAt": 1676247647,
-      "changes": 2
+      "followers": 91,
+      "publicRepos": 51,
+      "stars": 193,
+      "updatedAt": 1676852493,
+      "changes": 3
     },
     {
       "id": "HyeokjinKang",
@@ -107,7 +107,7 @@
       "followers": 50,
       "publicRepos": 21,
       "stars": 57,
-      "updatedAt": 1676247466,
+      "updatedAt": 1676852311,
       "changes": 0
     },
     {
@@ -128,7 +128,7 @@
       "followers": 83,
       "publicRepos": 24,
       "stars": 91,
-      "updatedAt": 1676247504,
+      "updatedAt": 1676852349,
       "changes": 0
     },
     {
@@ -136,11 +136,11 @@
       "name": "정한",
       "bio": "제가 하는 일을 사랑하고, 제가 사랑하는 일을 합니다. rycont@outlook.kr",
       "avatarURL": "https://avatars.githubusercontent.com/u/35295182?s=64&v=4",
-      "followers": 269,
+      "followers": 276,
       "publicRepos": 135,
-      "stars": 859,
-      "updatedAt": 1676247779,
-      "changes": 9
+      "stars": 877,
+      "updatedAt": 1676852624,
+      "changes": 18
     },
     {
       "id": "suhdonghwi",
@@ -149,9 +149,9 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/8275026?s=64&v=4",
       "followers": 300,
       "publicRepos": 39,
-      "stars": 862,
-      "updatedAt": 1676247816,
-      "changes": 4
+      "stars": 863,
+      "updatedAt": 1676852662,
+      "changes": 1
     },
     {
       "id": "taevel02",
@@ -161,7 +161,7 @@
       "followers": 34,
       "publicRepos": 44,
       "stars": 6,
-      "updatedAt": 1676247837,
+      "updatedAt": 1676852682,
       "changes": 0
     },
     {
@@ -172,7 +172,7 @@
       "followers": 48,
       "publicRepos": 19,
       "stars": 22,
-      "updatedAt": 1676247848,
+      "updatedAt": 1676852692,
       "changes": 0
     },
     {
@@ -181,10 +181,10 @@
       "bio": "비비가 커지면 비비빅",
       "avatarURL": "https://avatars.githubusercontent.com/u/29941518?s=64&v=4",
       "followers": 52,
-      "publicRepos": 77,
-      "stars": 43,
-      "updatedAt": 1676247533,
-      "changes": 0
+      "publicRepos": 78,
+      "stars": 47,
+      "updatedAt": 1676852378,
+      "changes": 4
     },
     {
       "id": "wjaykim",
@@ -194,7 +194,7 @@
       "followers": 38,
       "publicRepos": 16,
       "stars": 4,
-      "updatedAt": 1676247861,
+      "updatedAt": 1676852705,
       "changes": 0
     },
     {
@@ -205,7 +205,7 @@
       "followers": 37,
       "publicRepos": 11,
       "stars": 26,
-      "updatedAt": 1676247865,
+      "updatedAt": 1676852710,
       "changes": 0
     },
     {
@@ -216,7 +216,7 @@
       "followers": 101,
       "publicRepos": 8,
       "stars": 0,
-      "updatedAt": 1676247716,
+      "updatedAt": 1676852562,
       "changes": 0
     },
     {
@@ -226,9 +226,9 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/10934461?s=64&v=4",
       "followers": 287,
       "publicRepos": 16,
-      "stars": 708,
-      "updatedAt": 1676247615,
-      "changes": 2
+      "stars": 709,
+      "updatedAt": 1676852461,
+      "changes": 1
     },
     {
       "id": "jspark6815",
@@ -238,7 +238,7 @@
       "followers": 25,
       "publicRepos": 14,
       "stars": 9,
-      "updatedAt": 1676247681,
+      "updatedAt": 1676852527,
       "changes": 0
     },
     {
@@ -259,7 +259,7 @@
       "followers": 58,
       "publicRepos": 5,
       "stars": 0,
-      "updatedAt": 1676247685,
+      "updatedAt": 1676852531,
       "changes": 0
     },
     {
@@ -270,8 +270,8 @@
       "followers": 94,
       "publicRepos": 70,
       "stars": 135,
-      "updatedAt": 1676247558,
-      "changes": -2
+      "updatedAt": 1676852403,
+      "changes": 0
     },
     {
       "id": "angrypig7",
@@ -279,9 +279,9 @@
       "bio": "Hardware Developer, SSU Software Engineering, KDMHS 16HD",
       "avatarURL": "https://avatars.githubusercontent.com/u/26675060?s=64&v=4",
       "followers": 22,
-      "publicRepos": 28,
+      "publicRepos": 24,
       "stars": 15,
-      "updatedAt": 1676247539,
+      "updatedAt": 1676852384,
       "changes": 0
     },
     {
@@ -292,7 +292,7 @@
       "followers": 2,
       "publicRepos": 0,
       "stars": 0,
-      "updatedAt": 1676247386,
+      "updatedAt": 1676852236,
       "changes": 0
     },
     {
@@ -300,11 +300,11 @@
       "name": "Suyeol Jeon",
       "bio": "A lazy developer 😴 I write many code to write less code.",
       "avatarURL": "https://avatars.githubusercontent.com/u/931655?s=64&v=4",
-      "followers": 3240,
+      "followers": 3267,
       "publicRepos": 202,
-      "stars": 18668,
-      "updatedAt": 1676247606,
-      "changes": 16
+      "stars": 18677,
+      "updatedAt": 1676852451,
+      "changes": 9
     },
     {
       "id": "bhbh1226",
@@ -314,7 +314,7 @@
       "followers": 12,
       "publicRepos": 4,
       "stars": 18,
-      "updatedAt": 1676247552,
+      "updatedAt": 1676852397,
       "changes": 0
     },
     {
@@ -325,7 +325,7 @@
       "followers": 23,
       "publicRepos": 21,
       "stars": 1,
-      "updatedAt": 1676247711,
+      "updatedAt": 1676852557,
       "changes": 0
     },
     {
@@ -335,9 +335,9 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/9063575?s=64&v=4",
       "followers": 654,
       "publicRepos": 11,
-      "stars": 5433,
-      "updatedAt": 1676247576,
-      "changes": 7
+      "stars": 5439,
+      "updatedAt": 1676852421,
+      "changes": 6
     },
     {
       "id": "JSpiner",
@@ -347,7 +347,7 @@
       "followers": 374,
       "publicRepos": 106,
       "stars": 499,
-      "updatedAt": 1676247478,
+      "updatedAt": 1676852323,
       "changes": 0
     },
     {
@@ -358,7 +358,7 @@
       "followers": 69,
       "publicRepos": 6,
       "stars": 11,
-      "updatedAt": 1676247543,
+      "updatedAt": 1676852388,
       "changes": 0
     },
     {
@@ -366,10 +366,10 @@
       "name": "Song Hyemin",
       "bio": "안드로이드를 공부하는 학생",
       "avatarURL": "https://avatars.githubusercontent.com/u/15646373?s=64&v=4",
-      "followers": 47,
-      "publicRepos": 18,
+      "followers": 51,
+      "publicRepos": 20,
       "stars": 2,
-      "updatedAt": 1676247658,
+      "updatedAt": 1676852503,
       "changes": 0
     },
     {
@@ -380,7 +380,7 @@
       "followers": 25,
       "publicRepos": 35,
       "stars": 14,
-      "updatedAt": 1676247792,
+      "updatedAt": 1676852637,
       "changes": 0
     },
     {
@@ -391,7 +391,7 @@
       "followers": 11,
       "publicRepos": 13,
       "stars": 21,
-      "updatedAt": 1676247662,
+      "updatedAt": 1676852507,
       "changes": 0
     },
     {
@@ -400,10 +400,10 @@
       "bio": "Deep Learning Compression All You Need!",
       "avatarURL": "https://avatars.githubusercontent.com/u/6357456?s=64&v=4",
       "followers": 35,
-      "publicRepos": 90,
+      "publicRepos": 91,
       "stars": 84,
-      "updatedAt": 1676247706,
-      "changes": 1
+      "updatedAt": 1676852552,
+      "changes": 0
     },
     {
       "id": "gtw04",
@@ -435,8 +435,8 @@
       "followers": 41,
       "publicRepos": 14,
       "stars": 171,
-      "updatedAt": 1676247831,
-      "changes": 3
+      "updatedAt": 1676852677,
+      "changes": 0
     },
     {
       "id": "pjc0247",
@@ -445,9 +445,9 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/1961216?s=64&v=4",
       "followers": 140,
       "publicRepos": 337,
-      "stars": 594,
-      "updatedAt": 1676247770,
-      "changes": 0
+      "stars": 596,
+      "updatedAt": 1676852616,
+      "changes": 2
     },
     {
       "id": "Rinirihiriro",
@@ -456,9 +456,9 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/6296785?s=64&v=4",
       "followers": 24,
       "publicRepos": 10,
-      "stars": 195,
-      "updatedAt": 1676247518,
-      "changes": 0
+      "stars": 196,
+      "updatedAt": 1676852363,
+      "changes": 1
     },
     {
       "id": "IkwhanChang",
@@ -468,7 +468,7 @@
       "followers": 21,
       "publicRepos": 48,
       "stars": 24,
-      "updatedAt": 1676247470,
+      "updatedAt": 1676852316,
       "changes": 0
     },
     {
@@ -479,8 +479,8 @@
       "followers": 54,
       "publicRepos": 10,
       "stars": 36,
-      "updatedAt": 1676247441,
-      "changes": 1
+      "updatedAt": 1676852286,
+      "changes": 0
     },
     {
       "id": "endlessdev",
@@ -489,20 +489,20 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/3799158?s=64&v=4",
       "followers": 56,
       "publicRepos": 75,
-      "stars": 49,
-      "updatedAt": 1676247626,
-      "changes": 0
+      "stars": 50,
+      "updatedAt": 1676852472,
+      "changes": 1
     },
     {
       "id": "Prev",
       "name": "Youngsoo Lee",
       "bio": "Software Engineer, Machine Learning Backend",
       "avatarURL": "https://avatars.githubusercontent.com/u/3872573?s=64&v=4",
-      "followers": 103,
+      "followers": 104,
       "publicRepos": 39,
       "stars": 886,
-      "updatedAt": 1676247509,
-      "changes": 2
+      "updatedAt": 1676852355,
+      "changes": 0
     },
     {
       "id": "DoHyeong",
@@ -512,7 +512,7 @@
       "followers": 5,
       "publicRepos": 7,
       "stars": 4,
-      "updatedAt": 1676247436,
+      "updatedAt": 1676852282,
       "changes": 0
     },
     {
@@ -523,7 +523,7 @@
       "followers": 0,
       "publicRepos": 2,
       "stars": 0,
-      "updatedAt": 1676247720,
+      "updatedAt": 1676852566,
       "changes": 0
     },
     {
@@ -534,7 +534,7 @@
       "followers": 8,
       "publicRepos": 20,
       "stars": 2,
-      "updatedAt": 1676247820,
+      "updatedAt": 1676852666,
       "changes": 0
     },
     {
@@ -545,7 +545,7 @@
       "followers": 30,
       "publicRepos": 4,
       "stars": 0,
-      "updatedAt": 1676247523,
+      "updatedAt": 1676852368,
       "changes": 0
     },
     {
@@ -556,7 +556,7 @@
       "followers": 12,
       "publicRepos": 23,
       "stars": 0,
-      "updatedAt": 1676247852,
+      "updatedAt": 1676852696,
       "changes": 0
     },
     {
@@ -567,7 +567,7 @@
       "followers": 6,
       "publicRepos": 11,
       "stars": 0,
-      "updatedAt": 1676247493,
+      "updatedAt": 1676852338,
       "changes": 0
     },
     {
@@ -577,8 +577,8 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/2270565?s=64&v=4",
       "followers": 55,
       "publicRepos": 39,
-      "stars": 327,
-      "updatedAt": 1676247391,
+      "stars": 330,
+      "updatedAt": 1676852242,
       "changes": 3
     },
     {
@@ -586,11 +586,11 @@
       "name": "Sungwoo Park",
       "bio": "👨‍💻 Dreaming Developer",
       "avatarURL": "https://avatars.githubusercontent.com/u/33975709?s=64&v=4",
-      "followers": 137,
+      "followers": 138,
       "publicRepos": 39,
       "stars": 38,
-      "updatedAt": 1676247590,
-      "changes": 1
+      "updatedAt": 1676852435,
+      "changes": 0
     },
     {
       "id": "SngsuNoh",
@@ -600,7 +600,7 @@
       "followers": 16,
       "publicRepos": 7,
       "stars": 1,
-      "updatedAt": 1676247527,
+      "updatedAt": 1676852372,
       "changes": 0
     },
     {
@@ -611,7 +611,7 @@
       "followers": 0,
       "publicRepos": 34,
       "stars": 52,
-      "updatedAt": 1676247802,
+      "updatedAt": 1676852648,
       "changes": 0
     },
     {
@@ -643,7 +643,7 @@
       "followers": 96,
       "publicRepos": 9,
       "stars": 299,
-      "updatedAt": 1676247734,
+      "updatedAt": 1676852580,
       "changes": 0
     },
     {
@@ -665,7 +665,7 @@
       "followers": 30,
       "publicRepos": 9,
       "stars": 6,
-      "updatedAt": 1676247856,
+      "updatedAt": 1676852701,
       "changes": 0
     },
     {
@@ -676,7 +676,7 @@
       "followers": 9,
       "publicRepos": 10,
       "stars": 3,
-      "updatedAt": 1676247483,
+      "updatedAt": 1676852328,
       "changes": 0
     },
     {
@@ -698,7 +698,7 @@
       "followers": 30,
       "publicRepos": 11,
       "stars": 3,
-      "updatedAt": 1676247619,
+      "updatedAt": 1676852465,
       "changes": 0
     },
     {
@@ -719,7 +719,7 @@
       "followers": 40,
       "publicRepos": 11,
       "stars": 15,
-      "updatedAt": 1676247724,
+      "updatedAt": 1676852571,
       "changes": 0
     },
     {
@@ -730,7 +730,7 @@
       "followers": 17,
       "publicRepos": 6,
       "stars": 3,
-      "updatedAt": 1676247880,
+      "updatedAt": 1676852724,
       "changes": 0
     },
     {
@@ -738,10 +738,10 @@
       "name": "CraftyDragon678",
       "bio": "KDMHS 19HD",
       "avatarURL": "https://avatars.githubusercontent.com/u/25890954?s=64&v=4",
-      "followers": 77,
+      "followers": 79,
       "publicRepos": 98,
       "stars": 118,
-      "updatedAt": 1676247427,
+      "updatedAt": 1676852277,
       "changes": 0
     },
     {
@@ -752,7 +752,7 @@
       "followers": 16,
       "publicRepos": 55,
       "stars": 10,
-      "updatedAt": 1676247653,
+      "updatedAt": 1676852499,
       "changes": 0
     },
     {
@@ -763,7 +763,7 @@
       "followers": 52,
       "publicRepos": 47,
       "stars": 128,
-      "updatedAt": 1676247461,
+      "updatedAt": 1676852307,
       "changes": 0
     },
     {
@@ -773,9 +773,9 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/1618736?s=64&v=4",
       "followers": 142,
       "publicRepos": 62,
-      "stars": 574,
-      "updatedAt": 1676247843,
-      "changes": 0
+      "stars": 575,
+      "updatedAt": 1676852688,
+      "changes": 1
     },
     {
       "id": "skyclad0x7b7",
@@ -785,7 +785,7 @@
       "followers": 23,
       "publicRepos": 22,
       "stars": 12,
-      "updatedAt": 1676247797,
+      "updatedAt": 1676852642,
       "changes": 0
     },
     {
@@ -796,7 +796,7 @@
       "followers": 30,
       "publicRepos": 28,
       "stars": 32,
-      "updatedAt": 1676247514,
+      "updatedAt": 1676852359,
       "changes": 0
     },
     {
@@ -807,7 +807,7 @@
       "followers": 16,
       "publicRepos": 42,
       "stars": 73,
-      "updatedAt": 1676247729,
+      "updatedAt": 1676852576,
       "changes": 0
     },
     {
@@ -815,22 +815,22 @@
       "name": "Chris Hoyean Song",
       "bio": "Google Developer Experts for Machine Learning / RL is my girl friend.",
       "avatarURL": "https://avatars.githubusercontent.com/u/3013964?s=64&v=4",
-      "followers": 654,
+      "followers": 657,
       "publicRepos": 168,
-      "stars": 2958,
-      "updatedAt": 1676247571,
-      "changes": 2
+      "stars": 2967,
+      "updatedAt": 1676852416,
+      "changes": 9
     },
     {
       "id": "ildoonet",
       "name": "Ildoo Kim",
       "bio": "CEO / AI Researcher @ KakaoBrain",
       "avatarURL": "https://avatars.githubusercontent.com/u/1115758?s=64&v=4",
-      "followers": 1061,
+      "followers": 1066,
       "publicRepos": 27,
-      "stars": 1988,
-      "updatedAt": 1676247667,
-      "changes": 3
+      "stars": 1993,
+      "updatedAt": 1676852512,
+      "changes": 5
     },
     {
       "id": "Dry8r3aD",
@@ -840,7 +840,7 @@
       "followers": 26,
       "publicRepos": 92,
       "stars": 10,
-      "updatedAt": 1676247447,
+      "updatedAt": 1676852293,
       "changes": 0
     },
     {
@@ -851,7 +851,7 @@
       "followers": 55,
       "publicRepos": 46,
       "stars": 139,
-      "updatedAt": 1676247739,
+      "updatedAt": 1676852585,
       "changes": 0
     },
     {
@@ -859,11 +859,11 @@
       "name": "Ukjae Jeong (Jay)",
       "bio": "Machine Learning @daangn, ML Google Dev Expert (@ml-gde)",
       "avatarURL": "https://avatars.githubusercontent.com/u/8815362?s=64&v=4",
-      "followers": 187,
+      "followers": 189,
       "publicRepos": 130,
-      "stars": 406,
-      "updatedAt": 1676247676,
-      "changes": 2
+      "stars": 410,
+      "updatedAt": 1676852521,
+      "changes": 4
     },
     {
       "id": "plantstoen",
@@ -881,10 +881,10 @@
       "name": "Jinseo Park",
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/1618732?s=64&v=4",
-      "followers": 1143,
+      "followers": 1144,
       "publicRepos": 50,
-      "stars": 700,
-      "updatedAt": 1676247405,
+      "stars": 702,
+      "updatedAt": 1676852256,
       "changes": 2
     },
     {
@@ -894,9 +894,9 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/249795?s=64&v=4",
       "followers": 106,
       "publicRepos": 110,
-      "stars": 895,
-      "updatedAt": 1676247876,
-      "changes": 0
+      "stars": 897,
+      "updatedAt": 1676852720,
+      "changes": 2
     },
     {
       "id": "Luavis",
@@ -905,8 +905,8 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/1534596?s=64&v=4",
       "followers": 90,
       "publicRepos": 76,
-      "stars": 286,
-      "updatedAt": 1676247499,
+      "stars": 287,
+      "updatedAt": 1676852344,
       "changes": 1
     },
     {
@@ -914,10 +914,10 @@
       "name": "Chanhee Lee",
       "bio": "\"To know is to know that you know nothing. That's the meaning of True knowledge.\"",
       "avatarURL": "https://avatars.githubusercontent.com/u/8682478?s=64&v=4",
-      "followers": 129,
+      "followers": 128,
       "publicRepos": 18,
       "stars": 18,
-      "updatedAt": 1676247642,
+      "updatedAt": 1676852487,
       "changes": 0
     },
     {
@@ -936,22 +936,22 @@
       "name": "winterjung",
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/13811604?s=64&v=4",
-      "followers": 168,
+      "followers": 167,
       "publicRepos": 16,
-      "stars": 223,
-      "updatedAt": 1676247489,
-      "changes": 1
+      "stars": 225,
+      "updatedAt": 1676852334,
+      "changes": 2
     },
     {
       "id": "ssut",
       "name": "Suhun Han",
       "bio": "@brandazine Lead Software Engineer. Node and Go enthusiast. Email me at ssut@users.noreply.github.com.",
       "avatarURL": "https://avatars.githubusercontent.com/u/2366668?s=64&v=4",
-      "followers": 245,
+      "followers": 246,
       "publicRepos": 111,
-      "stars": 5167,
-      "updatedAt": 1676247811,
-      "changes": 42
+      "stars": 5193,
+      "updatedAt": 1676852656,
+      "changes": 26
     },
     {
       "id": "susemeee",
@@ -961,7 +961,7 @@
       "followers": 48,
       "publicRepos": 67,
       "stars": 16,
-      "updatedAt": 1676247826,
+      "updatedAt": 1676852672,
       "changes": 0
     },
     {
@@ -972,7 +972,7 @@
       "followers": 28,
       "publicRepos": 23,
       "stars": 41,
-      "updatedAt": 1676247632,
+      "updatedAt": 1676852477,
       "changes": 0
     },
     {
@@ -983,7 +983,7 @@
       "followers": 55,
       "publicRepos": 25,
       "stars": 25,
-      "updatedAt": 1676247753,
+      "updatedAt": 1676852599,
       "changes": 0
     },
     {
@@ -994,7 +994,7 @@
       "followers": 8,
       "publicRepos": 38,
       "stars": 4,
-      "updatedAt": 1676247548,
+      "updatedAt": 1676852393,
       "changes": 0
     },
     {
@@ -1005,7 +1005,7 @@
       "followers": 4,
       "publicRepos": 2,
       "stars": 0,
-      "updatedAt": 1676247395,
+      "updatedAt": 1676852246,
       "changes": 0
     },
     {
@@ -1024,10 +1024,10 @@
       "name": "Gijuno",
       "bio": "KDMHS 19 WP | Indent Corp. Software Engineer",
       "avatarURL": "https://avatars.githubusercontent.com/u/46197097?s=64&v=4",
-      "followers": 69,
+      "followers": 70,
       "publicRepos": 26,
       "stars": 17,
-      "updatedAt": 1676247452,
+      "updatedAt": 1676852297,
       "changes": 0
     },
     {
@@ -1038,7 +1038,7 @@
       "followers": 5,
       "publicRepos": 16,
       "stars": 2,
-      "updatedAt": 1676247637,
+      "updatedAt": 1676852482,
       "changes": 0
     },
     {
@@ -1049,7 +1049,7 @@
       "followers": 0,
       "publicRepos": 0,
       "stars": 0,
-      "updatedAt": 1676247594,
+      "updatedAt": 1676852439,
       "changes": 0
     },
     {
@@ -1057,11 +1057,11 @@
       "name": "조준희",
       "bio": "안녕하세요 디미고에 재학 중인 19살의 고등학생입니다! NLP에 관심이 아주 많습니다🤗 (Hello, I'm a 19-year-old student in South Korea. I'm very interested in NLP.)",
       "avatarURL": "https://avatars.githubusercontent.com/u/61267275?s=64&v=4",
-      "followers": 72,
+      "followers": 73,
       "publicRepos": 18,
-      "stars": 224,
-      "updatedAt": 1676247399,
-      "changes": 2
+      "stars": 227,
+      "updatedAt": 1676852250,
+      "changes": 3
     },
     {
       "id": "ser0kim",
@@ -1071,7 +1071,7 @@
       "followers": 7,
       "publicRepos": 0,
       "stars": 0,
-      "updatedAt": 1676247783,
+      "updatedAt": 1676852628,
       "changes": 0
     },
     {
@@ -1082,7 +1082,7 @@
       "followers": 3,
       "publicRepos": 0,
       "stars": 0,
-      "updatedAt": 1676247869,
+      "updatedAt": 1676852713,
       "changes": 0
     },
     {
@@ -1093,7 +1093,7 @@
       "followers": 54,
       "publicRepos": 13,
       "stars": 17,
-      "updatedAt": 1676247743,
+      "updatedAt": 1676852589,
       "changes": 0
     },
     {
@@ -1104,7 +1104,7 @@
       "followers": 13,
       "publicRepos": 10,
       "stars": 8,
-      "updatedAt": 1676247787,
+      "updatedAt": 1676852632,
       "changes": 0
     },
     {
@@ -1112,10 +1112,10 @@
       "name": "Beomjun Kim",
       "bio": "Build Android applications with clean and stylish code. 💖 also included.",
       "avatarURL": "https://avatars.githubusercontent.com/u/48619865?s=64&v=4",
-      "followers": 26,
+      "followers": 27,
       "publicRepos": 34,
       "stars": 63,
-      "updatedAt": 1676247748,
+      "updatedAt": 1676852594,
       "changes": 0
     },
     {
@@ -1126,7 +1126,7 @@
       "followers": 10,
       "publicRepos": 2,
       "stars": 1,
-      "updatedAt": 1676247456,
+      "updatedAt": 1676852301,
       "changes": 0
     }
   ]
