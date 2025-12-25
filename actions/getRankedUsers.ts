@@ -30,12 +30,16 @@ export default async function getRankedUsers(users: IUser[]): Promise<IRankedUse
     if (currentUserStars != previousStars) {
       currentRank ++;
     }
-    (user as IRankedUser).rank = currentRank;
     previousStars = currentUserStars;
 
-    user.updatedAt = moment
+    const formattedUpdatedAt = moment
       .unix(currentUserLastUpdated as number)
       .format('YYYY-MM-DD HH:mm:ss');
-    return [user];
+
+    return [{
+      ...user,
+      rank: currentRank,
+      updatedAt: formattedUpdatedAt,
+    }];
   }) as IRankedUser[];
 }
