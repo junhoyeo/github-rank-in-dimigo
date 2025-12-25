@@ -19,7 +19,6 @@ async function _countStarsFromURL(url: string): Promise<number> {
       }
       return [];
     });
-  console.log(starCounts);
   const currentCounts = getSumOfNumberArray(starCounts);
 
   const nextButton = document('a.next_page').first();

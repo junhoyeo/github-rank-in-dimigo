@@ -18,6 +18,5 @@ export default async function parseAllowList(): Promise<string[]> {
     a.toLowerCase().localeCompare(b.toLowerCase())
   );
 
-  console.log(uniqueSortedList);
   return uniqueSortedList;
 }

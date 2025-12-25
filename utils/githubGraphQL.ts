@@ -81,7 +81,9 @@ export async function getTotalStarsForUser(
     const starCounts = repositories.nodes.map((node) => node.stargazerCount);
     totalStars += starCounts.reduce((sum, count) => sum + count, 0);
 
-    console.log(`[GraphQL] ${login}: fetched ${repositories.nodes.length} repos, stars so far: ${totalStars}`);
+    if (process.env.DEBUG) {
+      console.log(`[GraphQL] ${login}: fetched ${repositories.nodes.length} repos, stars so far: ${totalStars}`);
+    }
 
     hasNextPage = repositories.pageInfo.hasNextPage;
     cursor = repositories.pageInfo.endCursor;

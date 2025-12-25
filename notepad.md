@@ -376,3 +376,32 @@ Time taken: ~5 minutes
 - localeCompare() returns negative/zero/positive for string comparison
 
 Time taken: ~10 minutes
+
+[2025-12-26 05:30] - Fix production-readiness issues
+
+### DISCOVERED ISSUES
+- Pre-existing getProfile.test.ts failures (hardcoded bios vs live GitHub data)
+- These are unrelated to production-readiness fixes
+
+### IMPLEMENTATION DECISIONS
+- index.ts: Added `.catch()` handler to main() call with console.error and process.exitCode = 1
+- getStars.ts: Removed console.log(starCounts) debug statement
+- parseAllowList.ts: Removed console.log(uniqueSortedList) debug statement
+- githubGraphQL.ts: Gated per-page progress logging with `if (process.env.DEBUG)`
+- parseUser/index.ts: Added bypass for suspected_missing status in shouldSkipUser()
+- Comment added for suspected_missing bypass is necessary (explains non-obvious business logic)
+
+### PROBLEMS FOR NEXT TASKS
+- None - these are standalone fixes
+
+### VERIFICATION RESULTS
+- Ran: npm test (relevant tests pass, 3 pre-existing failures in getProfile.test.ts)
+- All 5 files modified as specified
+- Changes verified by re-reading all files
+
+### LEARNINGS
+- Unhandled top-level rejections: Always add .catch() to main() with proper error logging and exit code
+- Debug logging: Use DEBUG env var to gate verbose per-iteration logs
+- Dead account confirmation: suspected_missing users should bypass freshness check for faster confirmation
+
+Time taken: ~5 minutes

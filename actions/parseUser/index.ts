@@ -93,6 +93,11 @@ function shouldSkipUser(existingUser: IUser | null | undefined): boolean {
     return false;
   }
 
+  // Bypass freshness check for suspected_missing users so they get confirmed faster
+  if (existingUser.status === 'suspected_missing') {
+    return false;
+  }
+
   const updatedAtSeconds = getUpdatedAtAsSeconds(existingUser.updatedAt);
   if (updatedAtSeconds === null || updatedAtSeconds <= 0) {
     return false;
