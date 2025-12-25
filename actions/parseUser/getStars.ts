@@ -2,6 +2,7 @@ import axios from 'axios';
 import cheerio from 'cheerio';
 
 import getSumOfNumberArray from '../../utils/getSumOfNumberArray';
+import { getTotalStarsForUser, hasGitHubToken, getGitHubToken } from '../../utils/githubGraphQL';
 
 async function _countStarsFromURL(url: string): Promise<number> {
   const { data: html } = await axios.get(url);
@@ -36,5 +37,17 @@ async function _countStarsFromURL(url: string): Promise<number> {
 }
 
 export default async function getStars(userID: string): Promise<number> {
+  if (hasGitHubToken()) {
+    try {
+      const token = getGitHubToken();
+      console.log(`[getStars] Using GraphQL API for ${userID}`);
+      return await getTotalStarsForUser(token, userID);
+    } catch (error) {
+      console.warn(`[getStars] GraphQL failed for ${userID}, falling back to web scraping:`, error);
+    }
+  } else {
+    console.log(`[getStars] No GITHUB_TOKEN, using web scraping for ${userID}`);
+  }
+
   return await _countStarsFromURL(`https://github.com/${userID}?tab=repositories`);
 }
