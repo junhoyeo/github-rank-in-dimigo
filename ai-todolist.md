@@ -16,7 +16,7 @@ Transform the GitHub ranking tool from slow web scraping with sequential process
 ---
 
 ## Currently In Progress
-(none)
+None (C3 completed)
 
 ## Task List
 
@@ -61,81 +61,81 @@ Transform the GitHub ranking tool from slow web scraping with sequential process
 
 ### 🟡 PHASE 2: Core Processing Improvements (Sequential)
 
-- [ ] **B1: Replace web scraping with GraphQL API (Issue #8)**
+- [x] **B1: Replace web scraping with GraphQL API (Issue #8)** ✅ COMPLETED 2025-12-26
   - **Files:** `actions/parseUser/getStars.ts`, `utils/githubGraphQL.ts` (new)
   - **Effort:** 1.5h
   - **Parallelizable:** NO (depends on A3, A4)
   - **Acceptance Criteria:**
-    - [ ] Uses `GITHUB_TOKEN` env variable
-    - [ ] GraphQL query fetches all repos with stargazerCount
-    - [ ] Handles pagination correctly
-    - [ ] Falls back to web scraping if no token provided
+    - [x] Uses `GITHUB_TOKEN` env variable
+    - [x] GraphQL query fetches all repos with stargazerCount
+    - [x] Handles pagination correctly
+    - [x] Falls back to web scraping if no token provided
 
-- [ ] **B2: Implement freshness checking (Issue #8)**
+- [x] **B2: Implement freshness checking (Issue #8)** ✅ COMPLETED 2025-12-26
   - **Files:** `actions/parseUser/index.ts`
   - **Effort:** 1h
   - **Parallelizable:** NO (depends on A2)
   - **Acceptance Criteria:**
-    - [ ] Users updated <24h ago are skipped
-    - [ ] `SKIP_IF_UPDATED_WITHIN_SECONDS` env variable controls threshold
-    - [ ] `FORCE_UPDATE=1` bypasses freshness check
-    - [ ] Log indicates skipped users
+    - [x] Users updated <24h ago are skipped
+    - [x] `SKIP_IF_UPDATED_WITHIN_SECONDS` env variable controls threshold
+    - [x] `FORCE_UPDATE=1` bypasses freshness check
+    - [x] Log indicates skipped users
 
-- [ ] **B3: Implement bounded concurrency pool (Issue #8)**
+- [x] **B3: Implement bounded concurrency pool (Issue #8)** ✅ COMPLETED 2025-12-26
   - **File:** `index.ts`
   - **Effort:** 1h
   - **Parallelizable:** NO (depends on A3, B1, B2)
   - **Acceptance Criteria:**
-    - [ ] Processes 5 users concurrently (configurable via `CONCURRENCY` env)
-    - [ ] Oldest users (by updatedAt) processed first
-    - [ ] Rate limiting handled via exponential backoff
-    - [ ] Fixed 3-second delays removed
+    - [x] Processes 5 users concurrently (configurable via `CONCURRENCY` env)
+    - [x] Oldest users (by updatedAt) processed first
+    - [x] Rate limiting handled via exponential backoff
+    - [x] Fixed 3-second delays removed
 
-- [ ] **B4: Dead account detection (Issue #42)**
-  - **Files:** `actions/parseUser/getProfile.ts`, `database/updateUser.ts`
+- [x] **B4: Dead account detection (Issue #42)** ✅ COMPLETED 2025-12-26
+  - **Files:** `actions/parseUser/index.ts`, `database/updateUser.ts`
   - **Effort:** 1h
   - **Parallelizable:** NO (depends on A2, B3)
   - **Acceptance Criteria:**
-    - [ ] 404 responses set status to `suspected_missing`
-    - [ ] Consecutive 404s (3+) set status to `confirmed_missing`
-    - [ ] Successful fetch sets status to `active`
-    - [ ] Processing continues after 404 (doesn't break loop)
+    - [x] 404 responses set status to `suspected_missing`
+    - [x] Consecutive 404s (3+) set status to `confirmed_missing`
+    - [x] Successful fetch sets status to `active`
+    - [x] Processing continues after 404 (doesn't break loop)
 
-- [ ] **B5: Exclude dead accounts from ranking (Issue #42)**
+- [x] **B5: Exclude dead accounts from ranking (Issue #42)** ✅ COMPLETED 2025-12-26
   - **File:** `actions/getRankedUsers.ts`
   - **Effort:** 30min
   - **Parallelizable:** NO (depends on B4)
   - **Acceptance Criteria:**
-    - [ ] `confirmed_missing` users excluded from HTML output
-    - [ ] `active` and `suspected_missing` users still appear
+    - [x] `confirmed_missing` users excluded from HTML output
+    - [x] `active` and `suspected_missing` users still appear
 
 ---
 
 ### 🔵 PHASE 3: Polish & CI (After Phase 2)
 
-- [ ] **C1: Sort ALLOWLIST at runtime (Issue #15)**
+- [x] **C1: Sort ALLOWLIST at runtime (Issue #15)** ✅ COMPLETED 2025-12-26
   - **File:** `actions/parseAllowList.ts`
   - **Effort:** 15min
   - **Parallelizable:** YES (with C2, C3)
   - **Acceptance Criteria:**
-    - [ ] ALLOWLIST parsed in case-insensitive alphabetical order
-    - [ ] Duplicates removed
+    - [x] ALLOWLIST parsed in case-insensitive alphabetical order
+    - [x] Duplicates removed
 
-- [ ] **C2: Sort database output alphabetically (Issue #15)**
+- [x] **C2: Sort database output alphabetically (Issue #15)** ✅ COMPLETED 2025-12-26
   - **File:** `database/getAllUsers.ts` or end of `index.ts`
   - **Effort:** 30min
   - **Parallelizable:** YES (with C1, C3)
   - **Acceptance Criteria:**
-    - [ ] Users returned/saved alphabetically by ID (case-insensitive)
-    - [ ] Git diff is clean/minimal
+    - [x] Users returned/saved alphabetically by ID (case-insensitive)
+    - [x] Git diff is clean/minimal
 
-- [ ] **C3: Add CI verification for sorting (Issue #15)**
+- [x] **C3: Add CI verification for sorting (Issue #15)** ✅ COMPLETED 2025-12-26
   - **New File:** `scripts/verify-sorted.ts`, update `.github/workflows/Update.yml`
   - **Effort:** 30min
   - **Parallelizable:** YES (with C1, C2)
   - **Acceptance Criteria:**
-    - [ ] CI fails on unsorted ALLOWLIST in PRs
-    - [ ] Clear error message
+    - [x] CI fails on unsorted ALLOWLIST in PRs
+    - [x] Clear error message
 
 - [ ] **C4: Update tests for new functionality**
   - **Files:** All `*.test.ts` files
