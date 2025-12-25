@@ -10,6 +10,9 @@ export interface IUserProfile {
 export interface IUser extends IUserProfile {
   stars: number;
   updatedAt: number | string;
+  status?: 'active' | 'suspected_missing' | 'confirmed_missing';
+  consecutiveFailures?: number;
+  lastSuccessfulUpdateAt?: number;
 }
 
 export interface IRankedUser extends Required<IUser> {

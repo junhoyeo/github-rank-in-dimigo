@@ -14,8 +14,17 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'yarn'
+
       - name: Install
         run: yarn install --frozen-lockfile
+
+      - name: Verify ALLOWLIST is sorted
+        run: yarn verify:sorted
 
       - name: Build
         run: yarn build

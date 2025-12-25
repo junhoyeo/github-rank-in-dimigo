@@ -5,6 +5,18 @@ export default async function parseAllowList(): Promise<string[]> {
   const allowList = getTrimmedLinesFromText(
     (await readFileAsync(`${__dirname}/../ALLOWLIST`))
     .toString());
-  console.log(allowList);
-  return allowList;
+
+  const seen = new Set<string>();
+  const uniqueAllowList = allowList.filter((id) => {
+    const lowerId = id.toLowerCase();
+    if (seen.has(lowerId)) return false;
+    seen.add(lowerId);
+    return true;
+  });
+
+  const uniqueSortedList = uniqueAllowList.sort((a, b) =>
+    a.toLowerCase().localeCompare(b.toLowerCase())
+  );
+
+  return uniqueSortedList;
 }
