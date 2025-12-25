@@ -12,7 +12,7 @@
     "verify:sorted": "ts-node scripts/verify-sorted.ts"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.30.2",
     "cheerio": "^1.0.0-rc.10",
     "ejs": "^3.1.6",
     "gh-pages": "^3.2.3",
