@@ -3,6 +3,7 @@ import parseUser from "./actions/parseUser";
 import getRankedUsers from "./actions/getRankedUsers";
 import renderHTMLFromRanked from "./actions/renderHTMLFromRanked";
 
+import database from "./database";
 import getAllUsers from "./database/getAllUsers";
 import getUserByID from "./database/getUserByID";
 import updateUser from "./database/updateUser";
@@ -85,6 +86,13 @@ async function main(): Promise<void> {
 
   const renderedHTML = await renderHTMLFromRanked(rankedUsers);
   await writeFileAsync("./public/build/index.html", renderedHTML);
+
+  const allUsers = getAllUsers();
+  const sortedUsers = [...allUsers].sort((a, b) =>
+    a.id.toLowerCase().localeCompare(b.id.toLowerCase())
+  );
+  database.set('users', sortedUsers).write();
+  console.log("📝 Database sorted alphabetically by user ID");
 }
 
 main();
