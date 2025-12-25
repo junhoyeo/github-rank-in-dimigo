@@ -1,5 +1,5 @@
 import * as fs from 'fs';
-import * as path from 'path';
+import { resolve } from 'path';
 
 function isSortedCaseInsensitive(arr: string[]): boolean {
   for (let i = 1; i < arr.length; i++) {
@@ -11,7 +11,7 @@ function isSortedCaseInsensitive(arr: string[]): boolean {
 }
 
 function main(): void {
-  const allowlistPath = path.join(__dirname, '..', 'ALLOWLIST');
+  const allowlistPath = resolve(process.cwd(), 'ALLOWLIST');
   const content = fs.readFileSync(allowlistPath, 'utf-8');
   const lines = content.split('\n').map(l => l.trim()).filter(l => l);
 
