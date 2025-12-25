@@ -17,6 +17,9 @@ jobs:
       - name: Install
         run: yarn install --frozen-lockfile
 
+      - name: Verify ALLOWLIST is sorted
+        run: yarn verify:sorted
+
       - name: Build
         run: yarn build
 
