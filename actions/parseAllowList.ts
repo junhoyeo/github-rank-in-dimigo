@@ -6,7 +6,15 @@ export default async function parseAllowList(): Promise<string[]> {
     (await readFileAsync(`${__dirname}/../ALLOWLIST`))
     .toString());
 
-  const uniqueSortedList = Array.from(new Set(allowList)).sort((a, b) =>
+  const seen = new Set<string>();
+  const uniqueAllowList = allowList.filter((id) => {
+    const lowerId = id.toLowerCase();
+    if (seen.has(lowerId)) return false;
+    seen.add(lowerId);
+    return true;
+  });
+
+  const uniqueSortedList = uniqueAllowList.sort((a, b) =>
     a.toLowerCase().localeCompare(b.toLowerCase())
   );
 
