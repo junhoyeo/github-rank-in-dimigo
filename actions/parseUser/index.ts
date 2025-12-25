@@ -1,3 +1,4 @@
+import axios from 'axios';
 import getStars from './getStars';
 import getProfile from './getProfile';
 
@@ -5,6 +6,55 @@ import { IUser } from '../../models/User';
 import getCurrentTimestamp from '../../utils/getCurrentTimestamp';
 
 const DEFAULT_FRESHNESS_THRESHOLD_SECONDS = 86400;
+
+function is404Error(error: unknown): boolean {
+  if (axios.isAxiosError(error)) {
+    return error.response?.status === 404;
+  }
+  if (typeof error === 'object' && error !== null) {
+    const e = error as { status?: number; response?: { status?: number } };
+    return (e.response?.status ?? e.status) === 404;
+  }
+  return false;
+}
+
+function handleProfileNotFound(
+  userID: string,
+  existingUser: IUser | null | undefined
+): IUser {
+  const currentFailures = existingUser?.consecutiveFailures ?? 0;
+  const newFailures = currentFailures + 1;
+  const now = getCurrentTimestamp();
+
+  const newStatus: 'suspected_missing' | 'confirmed_missing' =
+    newFailures >= 3 ? 'confirmed_missing' : 'suspected_missing';
+
+  console.log(
+    `[parseUser] 404 for ${userID}: consecutiveFailures ${currentFailures} → ${newFailures}, status → ${newStatus}`
+  );
+
+  if (existingUser) {
+    return {
+      ...existingUser,
+      status: newStatus,
+      consecutiveFailures: newFailures,
+      updatedAt: now,
+    };
+  }
+
+  return {
+    id: userID,
+    name: userID,
+    avatarURL: '',
+    bio: null,
+    followers: 0,
+    publicRepos: 0,
+    stars: 0,
+    status: newStatus,
+    consecutiveFailures: newFailures,
+    updatedAt: now,
+  };
+}
 
 function getUpdatedAtAsSeconds(updatedAt: number | string | undefined): number | null {
   if (updatedAt === undefined || updatedAt === null) {
@@ -70,11 +120,18 @@ export default async function parser(
     return null;
   }
 
-  const userInformation: Partial<IUser> = await getProfile(userID);
-  if (!userInformation.bio) {
-    userInformation.bio = '결과 없음';
+  try {
+    const userInformation: Partial<IUser> = await getProfile(userID);
+    if (!userInformation.bio) {
+      userInformation.bio = '결과 없음';
+    }
+    userInformation.stars = await getStars(userID);
+    userInformation.updatedAt = getCurrentTimestamp();
+    return userInformation as IUser;
+  } catch (error) {
+    if (is404Error(error)) {
+      return handleProfileNotFound(userID, existingUser);
+    }
+    throw error;
   }
-  userInformation.stars = await getStars(userID);
-  userInformation.updatedAt = getCurrentTimestamp();
-  return userInformation as IUser;
 }
