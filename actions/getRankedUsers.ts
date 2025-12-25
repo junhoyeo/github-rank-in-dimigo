@@ -3,7 +3,9 @@ import moment from 'moment';
 import { IUser, IRankedUser } from '../models/User';
 
 export default async function getRankedUsers(users: IUser[]): Promise<IRankedUser[]> {
-  users.sort(
+  const activeUsers = users.filter(user => user.status !== 'confirmed_missing');
+
+  activeUsers.sort(
     function(firstUser, secondUser) {
       if (firstUser.stars === secondUser.stars) {
         if (firstUser.followers === secondUser.followers) {
@@ -16,7 +18,7 @@ export default async function getRankedUsers(users: IUser[]): Promise<IRankedUse
 
   let currentRank = 0
   let previousStars = 0
-  return users.flatMap((user) => {
+  return activeUsers.flatMap((user) => {
     const {
       stars: currentUserStars,
       updatedAt: currentUserLastUpdated,
