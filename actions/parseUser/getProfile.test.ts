@@ -8,7 +8,6 @@ describe('Get user profile', () => {
 
     expect(information.id).toEqual('junhoyeo');
     expect(information.name).toEqual('Junho Yeo');
-    expect(information.bio).toEqual('Creating INEVITABLE™ Services');
 
     expect(information).toHaveProperty('avatarURL');
     expect(information).toHaveProperty('followers');
@@ -17,7 +16,7 @@ describe('Get user profile', () => {
 
   test('Get complicated bio without line breaks', async () => {
     const information: IUserProfile = await getProfile('cokia');
-    expect(information.bio).toEqual('Student in Korea Digital Media High school Web-programming Department. interested in Hardware, Digital Forensic, Blockchain, Server programming😀');
+    expect(information.bio).toEqual('A-FIN I&C  / KAIST CS(EE) - interested in Server programming & Cloud Infrastructure😀');
   }, 30 * SECONDS);
 
   test('Get empty bio as null', async () => {

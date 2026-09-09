@@ -4,17 +4,36 @@ import cheerio from 'cheerio';
 import getSumOfNumberArray from '../../utils/getSumOfNumberArray';
 import { getTotalStarsForUser, hasGitHubToken, getGitHubToken } from '../../utils/githubGraphQL';
 
+function parseStarCountText(text: string): number {
+  const normalized = text.replace(/,+/g, '').trim().toLowerCase();
+  const match = normalized.match(/^([\d.]+)([km])?$/);
+  if (!match) {
+    return Number(normalized) || 0;
+  }
+  const value = parseFloat(match[1]);
+  if (!Number.isFinite(value)) {
+    return 0;
+  }
+  if (match[2] === 'k') {
+    return Math.round(value * 1000);
+  }
+  if (match[2] === 'm') {
+    return Math.round(value * 1000000);
+  }
+  return value;
+}
+
 async function _countStarsFromURL(url: string): Promise<number> {
   const { data: html } = await axios.get(url);
   const document = cheerio.load(html);
-  const starCounts = document('a.Link--muted.mr-3')
+  const starCounts = document('a[href*="stargazers"]')
     .toArray()
     .flatMap((anchorReference) => {
       const anchor = cheerio(anchorReference);
       const href = anchor.attr('href');
       if (href && href.includes('stargazers')) {
         return [
-          Number(anchor.text().replace(/,+/g, '').trim())
+          parseStarCountText(anchor.text())
         ];
       }
       return [];
