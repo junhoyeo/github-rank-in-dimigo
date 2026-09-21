@@ -21,11 +21,11 @@
       "followers": 89,
       "publicRepos": 43,
       "stars": 519,
-      "updatedAt": 1789346202,
+      "updatedAt": 1789950959,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346202
+      "lastSuccessfulUpdateAt": 1789950959
     },
     {
       "id": "1st-JIINNN",
@@ -35,11 +35,11 @@
       "followers": 4,
       "publicRepos": 2,
       "stars": 0,
-      "updatedAt": 1789346191,
+      "updatedAt": 1789950951,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346191
+      "lastSuccessfulUpdateAt": 1789950951
     },
     {
       "id": "2runo",
@@ -49,11 +49,11 @@
       "followers": 82,
       "publicRepos": 25,
       "stars": 264,
-      "updatedAt": 1789346192,
+      "updatedAt": 1789950952,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346192
+      "lastSuccessfulUpdateAt": 1789950952
     },
     {
       "id": "64json",
@@ -63,11 +63,11 @@
       "followers": 1500,
       "publicRepos": 51,
       "stars": 773,
-      "updatedAt": 1789346204,
+      "updatedAt": 1789950962,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346204
+      "lastSuccessfulUpdateAt": 1789950962
     },
     {
       "id": "a1p4ca",
@@ -88,12 +88,12 @@
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/48921632?s=64&v=4",
       "followers": 34,
-      "publicRepos": 1,
+      "publicRepos": 2,
       "stars": 0,
-      "updatedAt": 1789346191,
+      "updatedAt": 1789950952,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346191,
+      "lastSuccessfulUpdateAt": 1789950952,
       "changes": 0
     },
     {
@@ -130,11 +130,11 @@
       "followers": 9,
       "publicRepos": 45,
       "stars": 3,
-      "updatedAt": 1789346203,
+      "updatedAt": 1789950961,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346203
+      "lastSuccessfulUpdateAt": 1789950961
     },
     {
       "id": "avanturation",
@@ -143,25 +143,25 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/46896125?s=64&v=4",
       "followers": 130,
       "publicRepos": 13,
-      "stars": 48,
-      "updatedAt": 1789346192,
+      "stars": 49,
+      "updatedAt": 1789950952,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346192,
-      "changes": 0
+      "lastSuccessfulUpdateAt": 1789950952,
+      "changes": 1
     },
     {
       "id": "beomjungil",
-      "name": "Beomjun Gil (Carter)",
+      "name": "Beomjun Gil",
       "bio": "\"Build Products with ❤️ and ☕️.\"",
       "avatarURL": "https://avatars.githubusercontent.com/u/24666383?s=64&v=4",
       "followers": 71,
-      "publicRepos": 35,
+      "publicRepos": 36,
       "stars": 31,
-      "updatedAt": 1789346196,
+      "updatedAt": 1789950954,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346196,
+      "lastSuccessfulUpdateAt": 1789950954,
       "changes": 0
     },
     {
@@ -172,11 +172,11 @@
       "followers": 27,
       "publicRepos": 6,
       "stars": 19,
-      "updatedAt": 1789346192,
+      "updatedAt": 1789950952,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346192
+      "lastSuccessfulUpdateAt": 1789950952
     },
     {
       "id": "binggamel",
@@ -186,10 +186,10 @@
       "followers": 33,
       "publicRepos": 32,
       "stars": 0,
-      "updatedAt": 1789346206,
+      "updatedAt": 1789950964,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346206,
+      "lastSuccessfulUpdateAt": 1789950964,
       "changes": 0
     },
     {
@@ -197,13 +197,13 @@
       "name": "BOSUNGG",
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/39987108?s=64&v=4",
-      "followers": 20,
+      "followers": 19,
       "publicRepos": 49,
       "stars": 44,
-      "updatedAt": 1789346212,
+      "updatedAt": 1789950970,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346212,
+      "lastSuccessfulUpdateAt": 1789950970,
       "changes": 0
     },
     {
@@ -214,10 +214,10 @@
       "followers": 116,
       "publicRepos": 48,
       "stars": 254,
-      "updatedAt": 1789346202,
+      "updatedAt": 1789950959,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346202,
+      "lastSuccessfulUpdateAt": 1789950959,
       "changes": 0
     },
     {
@@ -225,13 +225,13 @@
       "name": "심재성",
       "bio": "안녕하세요 👋 끊임없이 성장하는 개발자, 심재성입니다.",
       "avatarURL": "https://avatars.githubusercontent.com/u/35318955?s=64&v=4",
-      "followers": 42,
+      "followers": 41,
       "publicRepos": 24,
       "stars": 16,
-      "updatedAt": 1789346201,
+      "updatedAt": 1789950957,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346201,
+      "lastSuccessfulUpdateAt": 1789950957,
       "changes": 0
     },
     {
@@ -239,14 +239,14 @@
       "name": "Seokchan Yoon",
       "bio": "Security Researcher @ Zellic.io | Security Contributor of GitHub, GitLab, Python, Django, FastAPI, Airflow, Ruby, Ruby-on-Rails, Java Spring",
       "avatarURL": "https://avatars.githubusercontent.com/u/13852925?s=64&v=4",
-      "followers": 161,
+      "followers": 162,
       "publicRepos": 86,
       "stars": 145,
-      "updatedAt": 1789346215,
+      "updatedAt": 1789950973,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346215
+      "lastSuccessfulUpdateAt": 1789950973
     },
     {
       "id": "ChalkPE",
@@ -256,11 +256,11 @@
       "followers": 248,
       "publicRepos": 191,
       "stars": 352,
-      "updatedAt": 1789346224,
+      "updatedAt": 1789950982,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346224
+      "lastSuccessfulUpdateAt": 1789950982
     },
     {
       "id": "Changemin",
@@ -283,25 +283,25 @@
       "followers": 38,
       "publicRepos": 10,
       "stars": 4,
-      "updatedAt": 1789346192,
+      "updatedAt": 1789950952,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346192
+      "lastSuccessfulUpdateAt": 1789950952
     },
     {
       "id": "chris-chris",
       "name": "Chris Hoyean Song",
       "bio": "Google Developer Experts for Machine Learning / RL is my girl friend.",
       "avatarURL": "https://avatars.githubusercontent.com/u/3013964?s=64&v=4",
-      "followers": 786,
+      "followers": 787,
       "publicRepos": 192,
-      "stars": 3511,
-      "updatedAt": 1789346223,
-      "changes": -1,
+      "stars": 3512,
+      "updatedAt": 1789950980,
+      "changes": 1,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346223
+      "lastSuccessfulUpdateAt": 1789950980
     },
     {
       "id": "citrusinesis",
@@ -311,10 +311,10 @@
       "followers": 66,
       "publicRepos": 24,
       "stars": 4,
-      "updatedAt": 1789346202,
+      "updatedAt": 1789950958,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346202,
+      "lastSuccessfulUpdateAt": 1789950958,
       "changes": 0
     },
     {
@@ -324,12 +324,12 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/9063575?s=64&v=4",
       "followers": 731,
       "publicRepos": 11,
-      "stars": 6644,
-      "updatedAt": 1789346193,
-      "changes": -1,
+      "stars": 6645,
+      "updatedAt": 1789950952,
+      "changes": 1,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346193
+      "lastSuccessfulUpdateAt": 1789950952
     },
     {
       "id": "codnig",
@@ -349,14 +349,14 @@
       "name": "hanukoon",
       "bio": "A-FIN I&C  / KAIST CS(EE) - interested in Server programming & Cloud Infrastructure😀",
       "avatarURL": "https://avatars.githubusercontent.com/u/24792377?s=64&v=4",
-      "followers": 223,
+      "followers": 222,
       "publicRepos": 144,
       "stars": 196,
-      "updatedAt": 1789346220,
+      "updatedAt": 1789950977,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346220
+      "lastSuccessfulUpdateAt": 1789950977
     },
     {
       "id": "cos18",
@@ -366,11 +366,11 @@
       "followers": 174,
       "publicRepos": 51,
       "stars": 39,
-      "updatedAt": 1789346204,
+      "updatedAt": 1789950962,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346204
+      "lastSuccessfulUpdateAt": 1789950962
     },
     {
       "id": "CraftyDragon678",
@@ -380,25 +380,25 @@
       "followers": 84,
       "publicRepos": 98,
       "stars": 118,
-      "updatedAt": 1789346216,
+      "updatedAt": 1789950974,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346216
+      "lastSuccessfulUpdateAt": 1789950974
     },
     {
       "id": "D3vle0",
       "name": "Sanghyuk Bae",
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/44903787?s=64&v=4",
-      "followers": 50,
+      "followers": 51,
       "publicRepos": 32,
       "stars": 5,
-      "updatedAt": 1789346195,
+      "updatedAt": 1789950954,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346195
+      "lastSuccessfulUpdateAt": 1789950954
     },
     {
       "id": "daniel040502",
@@ -408,11 +408,11 @@
       "followers": 0,
       "publicRepos": 0,
       "stars": 0,
-      "updatedAt": 1789346192,
+      "updatedAt": 1789950952,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346192
+      "lastSuccessfulUpdateAt": 1789950952
     },
     {
       "id": "devxoul",
@@ -421,12 +421,12 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/931655?s=64&v=4",
       "followers": 4000,
       "publicRepos": 226,
-      "stars": 20170,
-      "updatedAt": 1789346226,
-      "changes": -1,
+      "stars": 20167,
+      "updatedAt": 1789950984,
+      "changes": -3,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346226
+      "lastSuccessfulUpdateAt": 1789950984
     },
     {
       "id": "dewberry9",
@@ -436,11 +436,11 @@
       "followers": 14,
       "publicRepos": 4,
       "stars": 0,
-      "updatedAt": 1789346193,
+      "updatedAt": 1789950952,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346193
+      "lastSuccessfulUpdateAt": 1789950952
     },
     {
       "id": "dhalsdyd",
@@ -450,10 +450,10 @@
       "followers": 50,
       "publicRepos": 35,
       "stars": 7,
-      "updatedAt": 1789346209,
+      "updatedAt": 1789950967,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346209,
+      "lastSuccessfulUpdateAt": 1789950967,
       "changes": 0
     },
     {
@@ -464,10 +464,10 @@
       "followers": 75,
       "publicRepos": 39,
       "stars": 66,
-      "updatedAt": 1789346204,
+      "updatedAt": 1789950962,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346204,
+      "lastSuccessfulUpdateAt": 1789950962,
       "changes": 0
     },
     {
@@ -478,11 +478,11 @@
       "followers": 7,
       "publicRepos": 7,
       "stars": 3,
-      "updatedAt": 1789346193,
+      "updatedAt": 1789950952,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346193
+      "lastSuccessfulUpdateAt": 1789950952
     },
     {
       "id": "Dongyeongkim",
@@ -492,25 +492,25 @@
       "followers": 77,
       "publicRepos": 20,
       "stars": 44,
-      "updatedAt": 1789346194,
+      "updatedAt": 1789950953,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346194
+      "lastSuccessfulUpdateAt": 1789950953
     },
     {
       "id": "Dry8r3aD",
       "name": "Gunyoung Yoon",
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/5144422?s=64&v=4",
-      "followers": 32,
+      "followers": 31,
       "publicRepos": 93,
       "stars": 10,
-      "updatedAt": 1789346215,
+      "updatedAt": 1789950973,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346215
+      "lastSuccessfulUpdateAt": 1789950973
     },
     {
       "id": "dsa28s",
@@ -519,12 +519,12 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/10934461?s=64&v=4",
       "followers": 333,
       "publicRepos": 21,
-      "stars": 1043,
-      "updatedAt": 1789346194,
-      "changes": -1,
+      "stars": 1044,
+      "updatedAt": 1789950953,
+      "changes": 1,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346194
+      "lastSuccessfulUpdateAt": 1789950953
     },
     {
       "id": "electrochemistry04",
@@ -547,11 +547,11 @@
       "followers": 62,
       "publicRepos": 80,
       "stars": 53,
-      "updatedAt": 1789346213,
+      "updatedAt": 1789950971,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346213
+      "lastSuccessfulUpdateAt": 1789950971
     },
     {
       "id": "Gijuno",
@@ -561,11 +561,11 @@
       "followers": 92,
       "publicRepos": 35,
       "stars": 19,
-      "updatedAt": 1789346202,
+      "updatedAt": 1789950960,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346202
+      "lastSuccessfulUpdateAt": 1789950960
     },
     {
       "id": "Greeeeeeeeen",
@@ -575,11 +575,11 @@
       "followers": 10,
       "publicRepos": 2,
       "stars": 1,
-      "updatedAt": 1789346193,
+      "updatedAt": 1789950952,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346193
+      "lastSuccessfulUpdateAt": 1789950952
     },
     {
       "id": "gtw04",
@@ -602,11 +602,11 @@
       "followers": 30,
       "publicRepos": 25,
       "stars": 42,
-      "updatedAt": 1789346201,
+      "updatedAt": 1789950958,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346201
+      "lastSuccessfulUpdateAt": 1789950958
     },
     {
       "id": "harugatto",
@@ -626,14 +626,14 @@
       "name": "김형석",
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/65775702?s=64&v=4",
-      "followers": 36,
+      "followers": 35,
       "publicRepos": 6,
       "stars": 12,
-      "updatedAt": 1789346195,
+      "updatedAt": 1789950953,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346195
+      "lastSuccessfulUpdateAt": 1789950953
     },
     {
       "id": "header1213",
@@ -643,11 +643,11 @@
       "followers": 7,
       "publicRepos": 17,
       "stars": 2,
-      "updatedAt": 1789346194,
+      "updatedAt": 1789950953,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346194
+      "lastSuccessfulUpdateAt": 1789950953
     },
     {
       "id": "hellojunha",
@@ -657,10 +657,10 @@
       "followers": 19,
       "publicRepos": 14,
       "stars": 9,
-      "updatedAt": 1789346202,
+      "updatedAt": 1789950959,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346202,
+      "lastSuccessfulUpdateAt": 1789950959,
       "changes": 0
     },
     {
@@ -668,14 +668,14 @@
       "name": "Chanhee",
       "bio": "chief landing page officer @ aside.com | pronounce like johny",
       "avatarURL": "https://avatars.githubusercontent.com/u/8682478?s=64&v=4",
-      "followers": 261,
+      "followers": 263,
       "publicRepos": 31,
-      "stars": 49,
-      "updatedAt": 1789346196,
-      "changes": 0,
+      "stars": 50,
+      "updatedAt": 1789950954,
+      "changes": 1,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346196
+      "lastSuccessfulUpdateAt": 1789950954
     },
     {
       "id": "HIPERCUBE",
@@ -685,11 +685,11 @@
       "followers": 55,
       "publicRepos": 47,
       "stars": 135,
-      "updatedAt": 1789346206,
+      "updatedAt": 1789950965,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346206
+      "lastSuccessfulUpdateAt": 1789950965
     },
     {
       "id": "hjh010501",
@@ -698,12 +698,12 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/17137872?s=64&v=4",
       "followers": 159,
       "publicRepos": 55,
-      "stars": 252,
-      "updatedAt": 1789346208,
-      "changes": 0,
+      "stars": 253,
+      "updatedAt": 1789950967,
+      "changes": 1,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346208
+      "lastSuccessfulUpdateAt": 1789950967
     },
     {
       "id": "hrg921",
@@ -713,11 +713,11 @@
       "followers": 21,
       "publicRepos": 59,
       "stars": 10,
-      "updatedAt": 1789346209,
+      "updatedAt": 1789950968,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346209
+      "lastSuccessfulUpdateAt": 1789950968
     },
     {
       "id": "hyemdooly",
@@ -727,11 +727,11 @@
       "followers": 109,
       "publicRepos": 34,
       "stars": 4,
-      "updatedAt": 1789346204,
+      "updatedAt": 1789950963,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346204
+      "lastSuccessfulUpdateAt": 1789950963
     },
     {
       "id": "HyeokjinKang",
@@ -741,11 +741,11 @@
       "followers": 77,
       "publicRepos": 20,
       "stars": 100,
-      "updatedAt": 1789346196,
-      "changes": 1,
+      "updatedAt": 1789950954,
+      "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346196
+      "lastSuccessfulUpdateAt": 1789950954
     },
     {
       "id": "hyeongyun0916",
@@ -755,11 +755,11 @@
       "followers": 15,
       "publicRepos": 25,
       "stars": 23,
-      "updatedAt": 1789346197,
+      "updatedAt": 1789950955,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346197
+      "lastSuccessfulUpdateAt": 1789950955
     },
     {
       "id": "hyjun0407",
@@ -769,11 +769,11 @@
       "followers": 29,
       "publicRepos": 15,
       "stars": 20,
-      "updatedAt": 1789346195,
+      "updatedAt": 1789950953,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346195
+      "lastSuccessfulUpdateAt": 1789950953
     },
     {
       "id": "hyunthree2",
@@ -783,10 +783,10 @@
       "followers": 4,
       "publicRepos": 6,
       "stars": 0,
-      "updatedAt": 1789346196,
+      "updatedAt": 1789950954,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346196,
+      "lastSuccessfulUpdateAt": 1789950954,
       "changes": 0
     },
     {
@@ -797,11 +797,11 @@
       "followers": 29,
       "publicRepos": 50,
       "stars": 30,
-      "updatedAt": 1789346206,
+      "updatedAt": 1789950965,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346206
+      "lastSuccessfulUpdateAt": 1789950965
     },
     {
       "id": "ildoonet",
@@ -811,11 +811,11 @@
       "followers": 1100,
       "publicRepos": 34,
       "stars": 2236,
-      "updatedAt": 1789346208,
+      "updatedAt": 1789950967,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346208
+      "lastSuccessfulUpdateAt": 1789950967
     },
     {
       "id": "iriszero",
@@ -825,11 +825,11 @@
       "followers": 0,
       "publicRepos": 0,
       "stars": 0,
-      "updatedAt": 1789346194,
+      "updatedAt": 1789950953,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346194
+      "lastSuccessfulUpdateAt": 1789950953
     },
     {
       "id": "Jaeseong-CS",
@@ -852,10 +852,10 @@
       "followers": 30,
       "publicRepos": 1,
       "stars": 0,
-      "updatedAt": 1789346202,
+      "updatedAt": 1789950959,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346202,
+      "lastSuccessfulUpdateAt": 1789950959,
       "changes": 0
     },
     {
@@ -866,38 +866,38 @@
       "followers": 245,
       "publicRepos": 143,
       "stars": 500,
-      "updatedAt": 1789346221,
+      "updatedAt": 1789950978,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346221
+      "lastSuccessfulUpdateAt": 1789950978
     },
     {
       "id": "JetProc",
       "name": "JetProc",
       "bio": "Korea Digital Media High School",
       "avatarURL": "https://avatars.githubusercontent.com/u/46674347?s=64&v=4",
-      "followers": 44,
-      "publicRepos": 51,
+      "followers": 45,
+      "publicRepos": 53,
       "stars": 3,
-      "updatedAt": 1789346205,
+      "updatedAt": 1789950964,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346205
+      "lastSuccessfulUpdateAt": 1789950964
     },
     {
       "id": "Jinho1011",
       "name": "Jeon Jinho",
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/26860466?s=64&v=4",
-      "followers": 211,
+      "followers": 209,
       "publicRepos": 46,
       "stars": 39,
-      "updatedAt": 1789346212,
+      "updatedAt": 1789950970,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346212,
+      "lastSuccessfulUpdateAt": 1789950970,
       "changes": 0
     },
     {
@@ -908,10 +908,10 @@
       "followers": 18,
       "publicRepos": 13,
       "stars": 19,
-      "updatedAt": 1789346197,
+      "updatedAt": 1789950954,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346197,
+      "lastSuccessfulUpdateAt": 1789950954,
       "changes": 0
     },
     {
@@ -922,10 +922,10 @@
       "followers": 38,
       "publicRepos": 8,
       "stars": 6,
-      "updatedAt": 1789346204,
+      "updatedAt": 1789950962,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346204,
+      "lastSuccessfulUpdateAt": 1789950962,
       "changes": 0
     },
     {
@@ -949,25 +949,25 @@
       "followers": 26,
       "publicRepos": 18,
       "stars": 7,
-      "updatedAt": 1789346197,
+      "updatedAt": 1789950955,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346197
+      "lastSuccessfulUpdateAt": 1789950955
     },
     {
       "id": "JSpiner",
       "name": "smith_정성민",
       "bio": "올바름을 추구하는걸 가장 중요시 여깁니다.",
       "avatarURL": "https://avatars.githubusercontent.com/u/5474864?s=64&v=4",
-      "followers": 454,
+      "followers": 455,
       "publicRepos": 120,
-      "stars": 702,
-      "updatedAt": 1789346220,
-      "changes": 0,
+      "stars": 703,
+      "updatedAt": 1789950978,
+      "changes": 1,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346220
+      "lastSuccessfulUpdateAt": 1789950978
     },
     {
       "id": "juckchang",
@@ -977,11 +977,11 @@
       "followers": 79,
       "publicRepos": 4,
       "stars": 0,
-      "updatedAt": 1789346197,
+      "updatedAt": 1789950955,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346197
+      "lastSuccessfulUpdateAt": 1789950955
     },
     {
       "id": "JungWinter",
@@ -991,11 +991,11 @@
       "followers": 0,
       "publicRepos": 0,
       "stars": 0,
-      "updatedAt": 1789346195,
+      "updatedAt": 1789950953,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346195
+      "lastSuccessfulUpdateAt": 1789950953
     },
     {
       "id": "junhoyeo",
@@ -1004,12 +1004,12 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/32605822?s=64&v=4",
       "followers": 1700,
       "publicRepos": 403,
-      "stars": 9872,
-      "updatedAt": 1789346200,
-      "changes": 54,
+      "stars": 9946,
+      "updatedAt": 1789950964,
+      "changes": 74,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346200
+      "lastSuccessfulUpdateAt": 1789950964
     },
     {
       "id": "juungbae",
@@ -1032,11 +1032,11 @@
       "followers": 49,
       "publicRepos": 98,
       "stars": 108,
-      "updatedAt": 1789346217,
+      "updatedAt": 1789950975,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346217
+      "lastSuccessfulUpdateAt": 1789950975
     },
     {
       "id": "kattergil",
@@ -1059,25 +1059,25 @@
       "followers": 29,
       "publicRepos": 22,
       "stars": 1,
-      "updatedAt": 1789346202,
+      "updatedAt": 1789950960,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346202
+      "lastSuccessfulUpdateAt": 1789950960
     },
     {
       "id": "kdwkr",
       "name": "Daewoon Kim",
       "bio": "Software Engineer / Scatter Lab Frontend Lead",
       "avatarURL": "https://avatars.githubusercontent.com/u/5188404?s=64&v=4",
-      "followers": 113,
+      "followers": 112,
       "publicRepos": 13,
       "stars": 0,
-      "updatedAt": 1789346198,
+      "updatedAt": 1789950955,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346198
+      "lastSuccessfulUpdateAt": 1789950955
     },
     {
       "id": "kihunsong22",
@@ -1087,11 +1087,11 @@
       "followers": 31,
       "publicRepos": 31,
       "stars": 21,
-      "updatedAt": 1789346200,
+      "updatedAt": 1789950956,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346200,
-      "changes": 1
+      "lastSuccessfulUpdateAt": 1789950956,
+      "changes": 0
     },
     {
       "id": "kimain050401",
@@ -1101,10 +1101,10 @@
       "followers": 69,
       "publicRepos": 25,
       "stars": 35,
-      "updatedAt": 1789346198,
+      "updatedAt": 1789950955,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346198,
+      "lastSuccessfulUpdateAt": 1789950955,
       "changes": 0
     },
     {
@@ -1115,11 +1115,11 @@
       "followers": 158,
       "publicRepos": 57,
       "stars": 91,
-      "updatedAt": 1789346212,
-      "changes": 1,
+      "updatedAt": 1789950971,
+      "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346212
+      "lastSuccessfulUpdateAt": 1789950971
     },
     {
       "id": "kooa23",
@@ -1129,11 +1129,11 @@
       "followers": 0,
       "publicRepos": 2,
       "stars": 0,
-      "updatedAt": 1789346198,
+      "updatedAt": 1789950955,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346198
+      "lastSuccessfulUpdateAt": 1789950955
     },
     {
       "id": "krisamin",
@@ -1143,10 +1143,10 @@
       "followers": 58,
       "publicRepos": 7,
       "stars": 3,
-      "updatedAt": 1789346198,
+      "updatedAt": 1789950955,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346198,
+      "lastSuccessfulUpdateAt": 1789950955,
       "changes": 0
     },
     {
@@ -1157,11 +1157,11 @@
       "followers": 43,
       "publicRepos": 11,
       "stars": 15,
-      "updatedAt": 1789346199,
+      "updatedAt": 1789950955,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346199
+      "lastSuccessfulUpdateAt": 1789950955
     },
     {
       "id": "kwonbosung02",
@@ -1184,11 +1184,11 @@
       "followers": 7,
       "publicRepos": 11,
       "stars": 0,
-      "updatedAt": 1789346199,
+      "updatedAt": 1789950955,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346199
+      "lastSuccessfulUpdateAt": 1789950955
     },
     {
       "id": "Luavis",
@@ -1198,11 +1198,11 @@
       "followers": 103,
       "publicRepos": 77,
       "stars": 310,
-      "updatedAt": 1789346217,
+      "updatedAt": 1789950975,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346217
+      "lastSuccessfulUpdateAt": 1789950975
     },
     {
       "id": "min-uuu",
@@ -1212,11 +1212,11 @@
       "followers": 106,
       "publicRepos": 10,
       "stars": 322,
-      "updatedAt": 1789346203,
+      "updatedAt": 1789950960,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346203
+      "lastSuccessfulUpdateAt": 1789950960
     },
     {
       "id": "MinSeungHyun",
@@ -1226,39 +1226,39 @@
       "followers": 120,
       "publicRepos": 36,
       "stars": 98,
-      "updatedAt": 1789346206,
+      "updatedAt": 1789950965,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346206
+      "lastSuccessfulUpdateAt": 1789950965
     },
     {
       "id": "minsoopark",
       "name": "Minsoo Park",
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/1253530?s=64&v=4",
-      "followers": 60,
+      "followers": 59,
       "publicRepos": 48,
       "stars": 131,
-      "updatedAt": 1789346210,
+      "updatedAt": 1789950968,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346210
+      "lastSuccessfulUpdateAt": 1789950968
     },
     {
       "id": "n1net4il",
       "name": "Seunghwan Hur",
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/63772517?s=64&v=4",
-      "followers": 65,
+      "followers": 66,
       "publicRepos": 8,
       "stars": 15,
-      "updatedAt": 1789346203,
+      "updatedAt": 1789950961,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346203
+      "lastSuccessfulUpdateAt": 1789950961
     },
     {
       "id": "neomaster831",
@@ -1267,12 +1267,12 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/72684393?s=64&v=4",
       "followers": 111,
       "publicRepos": 18,
-      "stars": 340,
-      "updatedAt": 1789346205,
-      "changes": 1,
+      "stars": 342,
+      "updatedAt": 1789950963,
+      "changes": 2,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346205
+      "lastSuccessfulUpdateAt": 1789950963
     },
     {
       "id": "nomaishere",
@@ -1282,9 +1282,9 @@
       "followers": 32,
       "publicRepos": 5,
       "stars": 2,
-      "updatedAt": 1789346203,
+      "updatedAt": 1789950960,
       "status": "confirmed_missing",
-      "consecutiveFailures": 34,
+      "consecutiveFailures": 35,
       "lastSuccessfulUpdateAt": 1769992246,
       "changes": 0
     },
@@ -1296,11 +1296,11 @@
       "followers": 29,
       "publicRepos": 44,
       "stars": 82,
-      "updatedAt": 1789346207,
+      "updatedAt": 1789950966,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346207
+      "lastSuccessfulUpdateAt": 1789950966
     },
     {
       "id": "omh02033",
@@ -1310,10 +1310,10 @@
       "followers": 55,
       "publicRepos": 44,
       "stars": 21,
-      "updatedAt": 1789346207,
+      "updatedAt": 1789950966,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346207,
+      "lastSuccessfulUpdateAt": 1789950966,
       "changes": 0
     },
     {
@@ -1324,11 +1324,11 @@
       "followers": 158,
       "publicRepos": 343,
       "stars": 678,
-      "updatedAt": 1789346200,
+      "updatedAt": 1789950964,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346200
+      "lastSuccessfulUpdateAt": 1789950964
     },
     {
       "id": "plantstoen",
@@ -1348,14 +1348,14 @@
       "name": "Youngsoo Lee",
       "bio": "Engineering Manager, ML Software at @hyperconnect",
       "avatarURL": "https://avatars.githubusercontent.com/u/3872573?s=64&v=4",
-      "followers": 116,
+      "followers": 117,
       "publicRepos": 39,
       "stars": 989,
-      "updatedAt": 1789346208,
+      "updatedAt": 1789950967,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346208
+      "lastSuccessfulUpdateAt": 1789950967
     },
     {
       "id": "pRivAte12",
@@ -1365,11 +1365,11 @@
       "followers": 0,
       "publicRepos": 0,
       "stars": 0,
-      "updatedAt": 1789346204,
+      "updatedAt": 1789950962,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346204
+      "lastSuccessfulUpdateAt": 1789950962
     },
     {
       "id": "Revimal",
@@ -1379,11 +1379,11 @@
       "followers": 37,
       "publicRepos": 31,
       "stars": 44,
-      "updatedAt": 1789346210,
+      "updatedAt": 1789950968,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346210
+      "lastSuccessfulUpdateAt": 1789950968
     },
     {
       "id": "Rinirihiriro",
@@ -1393,11 +1393,11 @@
       "followers": 25,
       "publicRepos": 10,
       "stars": 211,
-      "updatedAt": 1789346199,
+      "updatedAt": 1789950956,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346199
+      "lastSuccessfulUpdateAt": 1789950956
     },
     {
       "id": "rycont",
@@ -1405,13 +1405,13 @@
       "bio": "We have to do something cool",
       "avatarURL": "https://avatars.githubusercontent.com/u/35295182?s=64&v=4",
       "followers": 506,
-      "publicRepos": 90,
+      "publicRepos": 92,
       "stars": 1271,
-      "updatedAt": 1789346215,
+      "updatedAt": 1789950973,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346215
+      "lastSuccessfulUpdateAt": 1789950973
     },
     {
       "id": "sandsunset",
@@ -1421,10 +1421,10 @@
       "followers": 23,
       "publicRepos": 3,
       "stars": 0,
-      "updatedAt": 1789346199,
+      "updatedAt": 1789950956,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346199,
+      "lastSuccessfulUpdateAt": 1789950956,
       "changes": 0
     },
     {
@@ -1435,10 +1435,10 @@
       "followers": 144,
       "publicRepos": 55,
       "stars": 51,
-      "updatedAt": 1789346212,
+      "updatedAt": 1789950971,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346212,
+      "lastSuccessfulUpdateAt": 1789950971,
       "changes": 0
     },
     {
@@ -1447,13 +1447,13 @@
       "bio": "Android Developer / Korea Digital Media Highschool Hacking defense major 14th / Sejong Univ dept. of software 22",
       "avatarURL": "https://avatars.githubusercontent.com/u/19940857?s=64&v=4",
       "followers": 51,
-      "publicRepos": 7,
+      "publicRepos": 9,
       "stars": 0,
-      "updatedAt": 1789346199,
+      "updatedAt": 1789950956,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346199
+      "lastSuccessfulUpdateAt": 1789950956
     },
     {
       "id": "ser0kim",
@@ -1463,11 +1463,11 @@
       "followers": 17,
       "publicRepos": 6,
       "stars": 0,
-      "updatedAt": 1789346205,
+      "updatedAt": 1789950963,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346205
+      "lastSuccessfulUpdateAt": 1789950963
     },
     {
       "id": "sesangbit56",
@@ -1475,13 +1475,13 @@
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/59798369?s=64&v=4",
       "followers": 13,
-      "publicRepos": 11,
+      "publicRepos": 12,
       "stars": 8,
-      "updatedAt": 1789346205,
+      "updatedAt": 1789950964,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346205
+      "lastSuccessfulUpdateAt": 1789950964
     },
     {
       "id": "seungminio",
@@ -1491,10 +1491,10 @@
       "followers": 126,
       "publicRepos": 15,
       "stars": 25,
-      "updatedAt": 1789346200,
+      "updatedAt": 1789950956,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346200,
+      "lastSuccessfulUpdateAt": 1789950956,
       "changes": 0
     },
     {
@@ -1505,11 +1505,11 @@
       "followers": 28,
       "publicRepos": 38,
       "stars": 14,
-      "updatedAt": 1789346210,
+      "updatedAt": 1789950969,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346210
+      "lastSuccessfulUpdateAt": 1789950969
     },
     {
       "id": "sihyeokpark",
@@ -1519,11 +1519,11 @@
       "followers": 128,
       "publicRepos": 14,
       "stars": 59,
-      "updatedAt": 1789346206,
+      "updatedAt": 1789950965,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346206
+      "lastSuccessfulUpdateAt": 1789950965
     },
     {
       "id": "skyclad0x7b7",
@@ -1533,11 +1533,11 @@
       "followers": 26,
       "publicRepos": 22,
       "stars": 16,
-      "updatedAt": 1789346207,
+      "updatedAt": 1789950966,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346207
+      "lastSuccessfulUpdateAt": 1789950966
     },
     {
       "id": "smsmsmsmin",
@@ -1560,11 +1560,11 @@
       "followers": 21,
       "publicRepos": 16,
       "stars": 1,
-      "updatedAt": 1789346200,
+      "updatedAt": 1789950957,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346200
+      "lastSuccessfulUpdateAt": 1789950957
     },
     {
       "id": "SnowMarble",
@@ -1574,10 +1574,10 @@
       "followers": 29,
       "publicRepos": 33,
       "stars": 0,
-      "updatedAt": 1789346213,
+      "updatedAt": 1789950972,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346213,
+      "lastSuccessfulUpdateAt": 1789950972,
       "changes": 0
     },
     {
@@ -1586,13 +1586,13 @@
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/1160378?s=64&v=4",
       "followers": 139,
-      "publicRepos": 46,
+      "publicRepos": 47,
       "stars": 70,
-      "updatedAt": 1789346210,
+      "updatedAt": 1789950969,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346210
+      "lastSuccessfulUpdateAt": 1789950969
     },
     {
       "id": "sqrtpi177",
@@ -1615,11 +1615,11 @@
       "followers": 52,
       "publicRepos": 37,
       "stars": 7,
-      "updatedAt": 1789346210,
+      "updatedAt": 1789950969,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346210
+      "lastSuccessfulUpdateAt": 1789950969
     },
     {
       "id": "ssut",
@@ -1628,12 +1628,12 @@
       "avatarURL": "https://avatars.githubusercontent.com/u/2366668?s=64&v=4",
       "followers": 410,
       "publicRepos": 134,
-      "stars": 9473,
-      "updatedAt": 1789346222,
-      "changes": 15,
+      "stars": 9484,
+      "updatedAt": 1789950979,
+      "changes": 11,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346222
+      "lastSuccessfulUpdateAt": 1789950979
     },
     {
       "id": "suhdonghwi",
@@ -1641,13 +1641,13 @@
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/8275026?s=64&v=4",
       "followers": 396,
-      "publicRepos": 45,
+      "publicRepos": 47,
       "stars": 983,
-      "updatedAt": 1789346213,
+      "updatedAt": 1789950972,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346213
+      "lastSuccessfulUpdateAt": 1789950972
     },
     {
       "id": "sur801",
@@ -1657,11 +1657,11 @@
       "followers": 8,
       "publicRepos": 21,
       "stars": 2,
-      "updatedAt": 1789346208,
+      "updatedAt": 1789950966,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346208
+      "lastSuccessfulUpdateAt": 1789950966
     },
     {
       "id": "susemeee",
@@ -1669,13 +1669,13 @@
       "bio": "Voyager for the unknown life",
       "avatarURL": "https://avatars.githubusercontent.com/u/4835442?s=64&v=4",
       "followers": 62,
-      "publicRepos": 84,
+      "publicRepos": 85,
       "stars": 16,
-      "updatedAt": 1789346215,
+      "updatedAt": 1789950974,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346215
+      "lastSuccessfulUpdateAt": 1789950974
     },
     {
       "id": "synchrok",
@@ -1685,11 +1685,11 @@
       "followers": 52,
       "publicRepos": 18,
       "stars": 208,
-      "updatedAt": 1789346209,
+      "updatedAt": 1789950967,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346209
+      "lastSuccessfulUpdateAt": 1789950967
     },
     {
       "id": "SYWoo2003",
@@ -1709,28 +1709,28 @@
       "name": "Taehoon Kwon",
       "bio": "`Drop the slop`;",
       "avatarURL": "https://avatars.githubusercontent.com/u/38127960?s=64&v=4",
-      "followers": 46,
+      "followers": 44,
       "publicRepos": 8,
       "stars": 59,
-      "updatedAt": 1789346207,
+      "updatedAt": 1789950966,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346207
+      "lastSuccessfulUpdateAt": 1789950966
     },
     {
       "id": "therne",
       "name": "Jun Kim",
       "bio": "결과 없음",
       "avatarURL": "https://avatars.githubusercontent.com/u/1618736?s=64&v=4",
-      "followers": 205,
+      "followers": 206,
       "publicRepos": 74,
       "stars": 581,
-      "updatedAt": 1789346217,
+      "updatedAt": 1789950976,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346217
+      "lastSuccessfulUpdateAt": 1789950976
     },
     {
       "id": "uhmseohun",
@@ -1740,11 +1740,11 @@
       "followers": 50,
       "publicRepos": 0,
       "stars": 0,
-      "updatedAt": 1789346204,
+      "updatedAt": 1789950963,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346204
+      "lastSuccessfulUpdateAt": 1789950963
     },
     {
       "id": "uowol",
@@ -1754,11 +1754,11 @@
       "followers": 16,
       "publicRepos": 22,
       "stars": 3,
-      "updatedAt": 1789346209,
+      "updatedAt": 1789950967,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346209
+      "lastSuccessfulUpdateAt": 1789950967
     },
     {
       "id": "vvcnyy",
@@ -1766,12 +1766,12 @@
       "bio": "23 HD 양우찬",
       "avatarURL": "https://avatars.githubusercontent.com/u/56502916?s=64&v=4",
       "followers": 9,
-      "publicRepos": 18,
+      "publicRepos": 17,
       "stars": 1,
-      "updatedAt": 1789346200,
+      "updatedAt": 1789950957,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346200,
+      "lastSuccessfulUpdateAt": 1789950957,
       "changes": 0
     },
     {
@@ -1782,11 +1782,11 @@
       "followers": 64,
       "publicRepos": 105,
       "stars": 70,
-      "updatedAt": 1789346219,
+      "updatedAt": 1789950976,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346219
+      "lastSuccessfulUpdateAt": 1789950976
     },
     {
       "id": "watxh",
@@ -1796,11 +1796,11 @@
       "followers": 30,
       "publicRepos": 12,
       "stars": 6,
-      "updatedAt": 1789346211,
+      "updatedAt": 1789950969,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346211
+      "lastSuccessfulUpdateAt": 1789950969
     },
     {
       "id": "whguswo",
@@ -1810,10 +1810,10 @@
       "followers": 22,
       "publicRepos": 8,
       "stars": 26,
-      "updatedAt": 1789346200,
+      "updatedAt": 1789950957,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346200,
+      "lastSuccessfulUpdateAt": 1789950957,
       "changes": 0
     },
     {
@@ -1824,38 +1824,38 @@
       "followers": 57,
       "publicRepos": 24,
       "stars": 11,
-      "updatedAt": 1789346211,
+      "updatedAt": 1789950969,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346211
+      "lastSuccessfulUpdateAt": 1789950969
     },
     {
       "id": "wkdwhddn06",
       "name": "장종우",
       "bio": "Running Clevon Softworks",
       "avatarURL": "https://avatars.githubusercontent.com/u/33992757?s=64&v=4",
-      "followers": 47,
+      "followers": 46,
       "publicRepos": 18,
       "stars": 26,
-      "updatedAt": 1789346201,
+      "updatedAt": 1789950958,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346201
+      "lastSuccessfulUpdateAt": 1789950958
     },
     {
       "id": "WooSangyoon",
       "name": "Sangyoon Woo",
       "bio": "Soongsil Univ. - EE, AIX",
       "avatarURL": "https://avatars.githubusercontent.com/u/45890761?s=64&v=4",
-      "followers": 23,
-      "publicRepos": 5,
+      "followers": 26,
+      "publicRepos": 6,
       "stars": 0,
-      "updatedAt": 1789346211,
+      "updatedAt": 1789950969,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346211,
+      "lastSuccessfulUpdateAt": 1789950969,
       "changes": 0
     },
     {
@@ -1866,10 +1866,10 @@
       "followers": 84,
       "publicRepos": 64,
       "stars": 7,
-      "updatedAt": 1789346216,
+      "updatedAt": 1789950974,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346216,
+      "lastSuccessfulUpdateAt": 1789950974,
       "changes": 0
     },
     {
@@ -1880,11 +1880,11 @@
       "followers": 2,
       "publicRepos": 0,
       "stars": 0,
-      "updatedAt": 1789346208,
+      "updatedAt": 1789950966,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346208
+      "lastSuccessfulUpdateAt": 1789950966
     },
     {
       "id": "yoloseem",
@@ -1907,11 +1907,11 @@
       "followers": 23,
       "publicRepos": 10,
       "stars": 5,
-      "updatedAt": 1789346211,
+      "updatedAt": 1789950969,
       "changes": 0,
       "status": "active",
       "consecutiveFailures": 0,
-      "lastSuccessfulUpdateAt": 1789346211
+      "lastSuccessfulUpdateAt": 1789950969
     }
   ]
 }
